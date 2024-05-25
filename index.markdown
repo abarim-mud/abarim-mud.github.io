@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About
+order: 0
 ---
+
+AbarimMUD is C# Diku Based MUD Engine in the very early stage(basically there's no engine yet).
+
+The project is open source: <https://github.com/abarim-mud/AbarimMUD>
