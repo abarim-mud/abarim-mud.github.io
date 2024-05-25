@@ -1,9 +1,22 @@
 ---
 layout: page
-title: Player's Guide
-permalink: /player/
+title: Concepts
+permalink: /concepts/
 order: 2
 ---
+
+## Multiclassing, Leveling Up, etc
+
+AbarimMUD would have 4 standard RPG classes: Warrior, Thief, Mage and Cleric.
+A player would choose one of it as their primary class when creating the character.
+However they would be able to level all four. It would happen following way:
+
+Once the player accumulates enough xp, their Character Level would be increased.
+And they would be granted additional hp/mana/mv and 1 level point.
+They could spend that point at any of four class guilds to gain Class Level.
+Gaining Class Level would also cost gold, which amount would depend on their current Character Level.
+Raising Class Level would unlock new abilities.
+It's also worth to note that the player base Accuracy(see #Combat) would depend solely on the value of the primary Class Level.
 
 ## Combat
 
