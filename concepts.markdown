@@ -6,10 +6,10 @@ title: Concepts
 ### Classes, Leveling Up and Universal Skill Points
 AbarimMUD would have 4 standard RPG classes: Warrior, Thief, Mage and Cleric.
 A player would choose one of it as their primary class when creating the character.
-The class would determine the player hitpoints/mana/moves/penetration(see #Combat)/etc.
+The class and level would determine the player hitpoints/mana/moves/penetration(see #Combat)/etc.
 Also every class would have list of skills unlocked on different levels.
-However there would be also a possibility to gain other classes' skills.
 
+However there would be also a possibility to gain other classes' skills.
 It would work through Universal Skill Points(USP). A player would gain one USP every 5 levels.
 Which could be traded for an other class skill or spell.
 
