@@ -49,3 +49,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - index.markdown
+  - concepts.markdown
+  - eqlist.markdown

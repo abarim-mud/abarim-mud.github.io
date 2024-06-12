@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Eqlist
-order: 3
 custom_css:
 - https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css
 
