@@ -39,7 +39,7 @@ Level|Gains
 -----|-----
 Novice|Grants Backstab ability. Initial Backstab Multiplier is 2(3 for prime thieves)
 Apprentice|+2 Backstab Multiplier
-Adept|+2 Backstab Multiplier. Grants 2nd stab. Prime thieves also gain ability 'circlestab'
+Adept|+2 Backstab Multiplier. Grants 2nd stab. Prime thieves gain ability 'Circlestab'
 Expert|+2 Backstab Multiplier
 Master|+2 Backstab Multiplier
 
@@ -51,5 +51,5 @@ Novice|+20 Weapon Penetration. +1 Weapon Attack Per Round. 'Kick' ability
 Apprentice|+20 Weapon Penetration
 Adept|+20 Weapon Penetration
 Expert|+20 Weapon Penetration. +1 Weapon Attack Per Round
-Master|+20 Weapon Penetration. Prime warriors gain ability 'parry'
+Master|+20 Weapon Penetration. Prime warriors gain ability 'Parry'
 
