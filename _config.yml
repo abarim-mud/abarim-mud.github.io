@@ -53,5 +53,6 @@ plugins:
 header_pages:
   - index.markdown
   - concepts.markdown
+  - player.markdown
   - cartography.markdown
   - eqlist.markdown
