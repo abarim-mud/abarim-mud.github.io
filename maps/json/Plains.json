@@ -1,0 +1,527 @@
+{
+  "Area": {
+    "Name": "Plains",
+    "MinimumLevel": "1",
+    "MaximumLevel": "20",
+    "BackgroundColor": "white",
+    "Rooms": [
+      {
+        "Id": 300,
+        "Name": "Path in the plains #300",
+        "Connections": {
+          "North": 315,
+          "East": 301,
+          "West": 316
+        }
+      },
+      {
+        "Id": 301,
+        "Name": "Path in the plains #301",
+        "Connections": {
+          "East": 302,
+          "West": 300
+        }
+      },
+      {
+        "Id": 302,
+        "Name": "Path in the plains #302",
+        "Connections": {
+          "North": 303,
+          "East": 346,
+          "West": 301
+        }
+      },
+      {
+        "Id": 303,
+        "Name": "Path in the plains #303",
+        "Connections": {
+          "North": 304,
+          "East": 317,
+          "South": 302,
+          "West": 315
+        }
+      },
+      {
+        "Id": 304,
+        "Name": "Path in the plains #304",
+        "Connections": {
+          "North": 305,
+          "South": 303
+        }
+      },
+      {
+        "Id": 305,
+        "Name": "Path in the plains #305",
+        "Connections": {
+          "North": 306,
+          "East": 321,
+          "South": 304,
+          "West": 320
+        }
+      },
+      {
+        "Id": 306,
+        "Name": "Path in the foothills #306",
+        "Connections": {
+          "North": 326,
+          "East": 307,
+          "South": 305
+        }
+      },
+      {
+        "Id": 307,
+        "Name": "Path in the foothills #307",
+        "Connections": {
+          "East": 308,
+          "South": 321,
+          "West": 306
+        }
+      },
+      {
+        "Id": 308,
+        "Name": "Path in the foothills #308",
+        "Connections": {
+          "North": 309,
+          "South": 312,
+          "West": 307
+        }
+      },
+      {
+        "Id": 309,
+        "Name": "Path in the foothills #309",
+        "Connections": {
+          "East": 348,
+          "South": 308,
+          "West": 326
+        }
+      },
+      {
+        "Id": 310,
+        "Name": "Path in the foothills #310",
+        "Connections": {
+          "North": 327,
+          "East": 311,
+          "West": 309
+        }
+      },
+      {
+        "Id": 311,
+        "Name": "Path in the foothills #311",
+        "Connections": {
+          "East": 312,
+          "West": 310
+        }
+      },
+      {
+        "Id": 312,
+        "Name": "The path intersection #312",
+        "Connections": {
+          "North": 308,
+          "South": 332,
+          "West": 321
+        }
+      },
+      {
+        "Id": 313,
+        "Name": "Road to Ofcol #313",
+        "Connections": {
+          "North": 314,
+          "South": 312,
+          "West": 327
+        }
+      },
+      {
+        "Id": 314,
+        "Name": "Outside Ofcol #314",
+        "Connections": {
+          "South": 313
+        }
+      },
+      {
+        "Id": 315,
+        "Name": "Gallow hill #315",
+        "Connections": {
+          "North": 320,
+          "East": 303,
+          "South": 300,
+          "West": 318
+        }
+      },
+      {
+        "Id": 316,
+        "Name": "Grassy plains #316",
+        "Connections": {
+          "North": 318,
+          "East": 300
+        }
+      },
+      {
+        "Id": 317,
+        "Name": "Grassy plains #317",
+        "Connections": {
+          "East": 338,
+          "South": 346,
+          "West": 303
+        }
+      },
+      {
+        "Id": 318,
+        "Name": "Grassy plains #318",
+        "Connections": {
+          "North": 319,
+          "East": 315,
+          "South": 316
+        },
+        "Contents": [
+          {
+            "Text": "the cute rabbit #309",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 319,
+        "Name": "Grassy plains #319",
+        "Connections": {
+          "North": 330,
+          "East": 320,
+          "South": 318
+        }
+      },
+      {
+        "Id": 320,
+        "Name": "Grassy plains #320",
+        "Connections": {
+          "North": 322,
+          "East": 305,
+          "South": 315,
+          "West": 319
+        }
+      },
+      {
+        "Id": 321,
+        "Name": "Grassy plains #321",
+        "Connections": {
+          "North": 307,
+          "East": 312,
+          "South": 338,
+          "West": 305
+        }
+      },
+      {
+        "Id": 322,
+        "Name": "Grassy foothills #322",
+        "Connections": {
+          "North": 324,
+          "South": 320,
+          "West": 330
+        }
+      },
+      {
+        "Id": 323,
+        "Name": "The steep foothills #323",
+        "Connections": {
+          "East": 324,
+          "South": 330
+        },
+        "Contents": [
+          {
+            "Text": "Aruncus the Druid #300",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 324,
+        "Name": "The steep foothills #324",
+        "Connections": {
+          "East": 325,
+          "South": 322,
+          "West": 323
+        },
+        "Contents": [
+          {
+            "Text": "the cute rabbit #309",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 325,
+        "Name": "The steep foothills #325",
+        "Connections": {
+          "East": 326,
+          "West": 324
+        }
+      },
+      {
+        "Id": 326,
+        "Name": "The pool in the foothills #326",
+        "Connections": {
+          "East": 309,
+          "South": 306,
+          "West": 325
+        }
+      },
+      {
+        "Id": 327,
+        "Name": "The foothills #327",
+        "Connections": {
+          "South": 310
+        }
+      },
+      {
+        "Id": 330,
+        "Name": "In front of hut in foothills #330",
+        "Connections": {
+          "North": 323,
+          "East": 322,
+          "South": 319,
+          "West": 331
+        }
+      },
+      {
+        "Id": 331,
+        "Name": "Hermit\u0027s hut #331",
+        "Connections": {
+          "East": 330
+        },
+        "Contents": [
+          {
+            "Text": "Sorbus the Hermit #301",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 332,
+        "Name": "The ancient path #332",
+        "Connections": {
+          "North": 312,
+          "South": 339,
+          "West": 338
+        }
+      },
+      {
+        "Id": 333,
+        "Name": "The ancient path #333",
+        "Connections": {
+          "North": 332,
+          "South": 334
+        }
+      },
+      {
+        "Id": 334,
+        "Name": "The ancient path #334",
+        "Connections": {
+          "North": 333,
+          "South": 335
+        },
+        "Contents": [
+          {
+            "Text": "the cute rabbit #309",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 335,
+        "Name": "The ancient path #335",
+        "Connections": {
+          "North": 334,
+          "East": 336
+        }
+      },
+      {
+        "Id": 336,
+        "Name": "The wooden bridge #336",
+        "Connections": {
+          "East": 337,
+          "West": 335
+        }
+      },
+      {
+        "Id": 337,
+        "Name": "The ancient path #337",
+        "Connections": {
+          "East": 339,
+          "West": 336
+        }
+      },
+      {
+        "Id": 338,
+        "Name": "Grassy plains #338",
+        "Connections": {
+          "North": 321,
+          "East": 332,
+          "South": 347,
+          "West": 317
+        }
+      },
+      {
+        "Id": 339,
+        "Name": "The Stones of G\u0027harne #339",
+        "Connections": {
+          "North": 332,
+          "West": 347,
+          "Down": 340
+        }
+      },
+      {
+        "Id": 340,
+        "Name": "Dark smelly tunnels #340",
+        "Connections": {
+          "South": 341,
+          "West": 342,
+          "Up": 339
+        }
+      },
+      {
+        "Id": 341,
+        "Name": "Dead end of tunnel #341",
+        "Connections": {
+          "North": 340
+        }
+      },
+      {
+        "Id": 342,
+        "Name": "Dark smelly tunnels #342",
+        "Connections": {
+          "East": 340,
+          "West": 343
+        }
+      },
+      {
+        "Id": 343,
+        "Name": "Dark smelly tunnels #343",
+        "Connections": {
+          "East": 342,
+          "West": 344
+        }
+      },
+      {
+        "Id": 344,
+        "Name": "The Hall of G\u0027harne #344",
+        "Connections": {
+          "East": 343
+        },
+        "Contents": [
+          {
+            "Text": "Shudde-M\u0027ell #305",
+            "Color": "red"
+          }
+        ]
+      },
+      {
+        "Id": 345,
+        "Name": "Steep slope #345",
+        "Connections": {}
+      },
+      {
+        "Id": 346,
+        "Name": "Open Plains #346",
+        "Connections": {
+          "North": 317,
+          "East": 347,
+          "West": 302
+        }
+      },
+      {
+        "Id": 347,
+        "Name": "Open Plains #347",
+        "Connections": {
+          "North": 338,
+          "East": 339,
+          "West": 346
+        }
+      },
+      {
+        "Id": 348,
+        "Name": "Open Plains #348",
+        "Connections": {
+          "East": 349,
+          "West": 309
+        }
+      },
+      {
+        "Id": 349,
+        "Name": "Open Plains #349",
+        "Connections": {
+          "East": 350,
+          "West": 348
+        }
+      },
+      {
+        "Id": 350,
+        "Name": "Open Plains #350",
+        "Connections": {
+          "East": 351,
+          "West": 349
+        }
+      },
+      {
+        "Id": 351,
+        "Name": "Open Plains #351",
+        "Connections": {
+          "East": 352,
+          "West": 350
+        }
+      },
+      {
+        "Id": 352,
+        "Name": "Open Plains #352",
+        "Connections": {
+          "East": 353,
+          "West": 351
+        }
+      },
+      {
+        "Id": 353,
+        "Name": "Open Plains #353",
+        "Connections": {
+          "East": 354,
+          "West": 352
+        }
+      },
+      {
+        "Id": 354,
+        "Name": "Open Plains #354",
+        "Connections": {
+          "East": 355,
+          "West": 353
+        }
+      },
+      {
+        "Id": 355,
+        "Name": "Open Plains #355",
+        "Connections": {
+          "West": 354
+        }
+      },
+      {
+        "Id": 356,
+        "Name": "Open Plains #356",
+        "Connections": {
+          "East": 357,
+          "West": 355
+        }
+      },
+      {
+        "Id": 357,
+        "Name": "Open Plains #357",
+        "Connections": {
+          "East": 358,
+          "West": 356
+        }
+      },
+      {
+        "Id": 358,
+        "Name": "Open Plains #358",
+        "Connections": {
+          "West": 357
+        }
+      }
+    ]
+  },
+  "BuildOptions": {}
+}

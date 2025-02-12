@@ -20,6 +20,8 @@ custom_js:
 
 Name | Credits | Min Level | Max Level
 -----| ------- | --------- | ---------
-[Newbie Zone.png](/maps/png/Newbie Zone.png) | Maynard | 1 | 10
-[Northern Midgaard.png](/maps/png/Northern Midgaard.png) | DikuMUD | 1 | 100
+[Arachnos.png](/maps/png/Arachnos.png) | Mahatma | 5 | 20
+[Astoria.png](/maps/png/Astoria.png) | | ALL | ALL
+[Haon Dor.png](/maps/png/Haon Dor.png) | Diku | 1 | 20
+[Sewers.png](/maps/png/Sewers.png) | Poohb | 5 | 35
 {: .datatable}

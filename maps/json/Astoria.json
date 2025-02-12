@@ -1,0 +1,1264 @@
+{
+  "Area": {
+    "Name": "Astoria",
+    "MinimumLevel": "ALL",
+    "MaximumLevel": "ALL",
+    "BackgroundColor": "white",
+    "Rooms": [
+      {
+        "Id": 19000,
+        "Name": "Outside The East Gate #19000",
+        "Connections": {
+          "West": 19001
+        }
+      },
+      {
+        "Id": 19001,
+        "Name": "The East Gate of Astoria #19001",
+        "Connections": {
+          "East": 19000,
+          "West": 19002
+        },
+        "Contents": [
+          {
+            "Text": "the cityguard #19019",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19002,
+        "Name": "Eastern Street of Astoria #19002",
+        "Connections": {
+          "East": 19001,
+          "West": 19003
+        }
+      },
+      {
+        "Id": 19003,
+        "Name": "Eastern Street of Astoria #19003",
+        "Connections": {
+          "East": 19002,
+          "West": 19004
+        }
+      },
+      {
+        "Id": 19004,
+        "Name": "Eastern Street of Astoria #19004",
+        "Connections": {
+          "North": 19015,
+          "East": 19003,
+          "South": 19034,
+          "West": 19005
+        }
+      },
+      {
+        "Id": 19005,
+        "Name": "Eastern Street of Astoria #19005",
+        "Connections": {
+          "East": 19004,
+          "West": 19006
+        }
+      },
+      {
+        "Id": 19006,
+        "Name": "Eastern Street of Astoria #19006",
+        "Connections": {
+          "East": 19005,
+          "West": 19007
+        }
+      },
+      {
+        "Id": 19007,
+        "Name": "The Gazebo #19007",
+        "Connections": {
+          "North": 19087,
+          "East": 19006,
+          "South": 19093,
+          "West": 19008
+        }
+      },
+      {
+        "Id": 19008,
+        "Name": "Western Street of Astoria #19008",
+        "Connections": {
+          "East": 19007,
+          "West": 19009
+        }
+      },
+      {
+        "Id": 19009,
+        "Name": "Western Street of Astoria #19009",
+        "Connections": {
+          "East": 19008,
+          "West": 19010
+        }
+      },
+      {
+        "Id": 19010,
+        "Name": "Western Street of Astoria #19010",
+        "Connections": {
+          "North": 19071,
+          "East": 19009,
+          "South": 19055,
+          "West": 19011
+        }
+      },
+      {
+        "Id": 19011,
+        "Name": "Western Street of Astoria #19011",
+        "Connections": {
+          "East": 19010,
+          "West": 19012
+        }
+      },
+      {
+        "Id": 19012,
+        "Name": "Western Street of Astoria #19012",
+        "Connections": {
+          "East": 19011,
+          "West": 19013
+        }
+      },
+      {
+        "Id": 19013,
+        "Name": "Western Gate #19013",
+        "Connections": {
+          "East": 19012,
+          "West": 19014
+        },
+        "Contents": [
+          {
+            "Text": "the cityguard #19019",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19014,
+        "Name": "Outside the Western Gate #19014",
+        "Connections": {
+          "East": 19013,
+          "West": 51400
+        }
+      },
+      {
+        "Id": 19015,
+        "Name": "Communer Lane #19015",
+        "Connections": {
+          "North": 19016,
+          "South": 19004
+        }
+      },
+      {
+        "Id": 19016,
+        "Name": "Communer Lane #19016",
+        "Connections": {
+          "North": 19017,
+          "South": 19015
+        }
+      },
+      {
+        "Id": 19017,
+        "Name": "Communer Lane #19017",
+        "Connections": {
+          "North": 19018,
+          "East": 19025,
+          "South": 19016
+        }
+      },
+      {
+        "Id": 19018,
+        "Name": "Communer Lane #19018",
+        "Connections": {
+          "North": 19019,
+          "South": 19017
+        }
+      },
+      {
+        "Id": 19019,
+        "Name": "Communer Lane #19019",
+        "Connections": {
+          "North": 19020,
+          "South": 19018
+        }
+      },
+      {
+        "Id": 19020,
+        "Name": "Communer Lane #19020",
+        "Connections": {
+          "North": 19021,
+          "East": 19026,
+          "South": 19019
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19011",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19021,
+        "Name": "Communer Lane #19021",
+        "Connections": {
+          "North": 19022,
+          "South": 19020
+        }
+      },
+      {
+        "Id": 19022,
+        "Name": "Communer Lane #19022",
+        "Connections": {
+          "North": 19023,
+          "South": 19021,
+          "West": 19108
+        }
+      },
+      {
+        "Id": 19023,
+        "Name": "Communer Lane #19023",
+        "Connections": {
+          "North": 19024,
+          "East": 19027,
+          "South": 19022
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19013",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19024,
+        "Name": "Wendy\u0027s Shop of Magic #19024",
+        "Connections": {
+          "South": 19023
+        },
+        "Contents": [
+          {
+            "Text": "Wendy the shopkeeper #19007",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19025,
+        "Name": "The Shamans Guild #19025",
+        "Connections": {
+          "North": 19028,
+          "West": 19017
+        }
+      },
+      {
+        "Id": 19026,
+        "Name": "The Paladins Guild #19026",
+        "Connections": {
+          "North": 19030,
+          "West": 19020
+        }
+      },
+      {
+        "Id": 19027,
+        "Name": "The Healers Sanctuary #19027",
+        "Connections": {
+          "North": 19032,
+          "West": 19023
+        }
+      },
+      {
+        "Id": 19028,
+        "Name": "The Priests Guidance #19028",
+        "Connections": {
+          "South": 19025,
+          "Down": 7068
+        }
+      },
+      {
+        "Id": 19030,
+        "Name": "The Paladins Guidance #19030",
+        "Connections": {
+          "South": 19026,
+          "Down": 7065
+        },
+        "Contents": [
+          {
+            "Text": "the paladin guildmaster #19010",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19032,
+        "Name": "The Healers Guidance #19032",
+        "Connections": {
+          "South": 19027,
+          "Down": 7062
+        },
+        "Contents": [
+          {
+            "Text": "the healer guildmaster #19012",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19034,
+        "Name": "Adventurers Lane #19034",
+        "Connections": {
+          "North": 19004,
+          "East": 19106,
+          "South": 19035
+        }
+      },
+      {
+        "Id": 19035,
+        "Name": "Adventurers Lane #19035",
+        "Connections": {
+          "North": 19034,
+          "South": 19036
+        }
+      },
+      {
+        "Id": 19036,
+        "Name": "Adventurers Lane #19036",
+        "Connections": {
+          "North": 19035,
+          "East": 19045,
+          "South": 19037
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19009",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19037,
+        "Name": "Adventurers Lane #19037",
+        "Connections": {
+          "North": 19036,
+          "South": 19038
+        }
+      },
+      {
+        "Id": 19038,
+        "Name": "Adventurers Lane #19038",
+        "Connections": {
+          "North": 19037,
+          "South": 19039
+        }
+      },
+      {
+        "Id": 19039,
+        "Name": "Adventurers Lane #19039",
+        "Connections": {
+          "North": 19038,
+          "East": 19046,
+          "South": 19040
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19015",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19040,
+        "Name": "Adventurers Lane #19040",
+        "Connections": {
+          "North": 19039,
+          "South": 19041
+        }
+      },
+      {
+        "Id": 19041,
+        "Name": "Adventurers Lane #19041",
+        "Connections": {
+          "North": 19040,
+          "East": 19122,
+          "South": 19042
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19035",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19042,
+        "Name": "Adventurers Lane #19042",
+        "Connections": {
+          "North": 19041,
+          "East": 19047,
+          "South": 19043
+        }
+      },
+      {
+        "Id": 19043,
+        "Name": "Adventurers Lane #19043",
+        "Connections": {
+          "North": 19042
+        }
+      },
+      {
+        "Id": 19045,
+        "Name": "Warriors Guild #19045",
+        "Connections": {
+          "North": 19048,
+          "West": 19036
+        }
+      },
+      {
+        "Id": 19046,
+        "Name": "Thiefs Guild #19046",
+        "Connections": {
+          "North": 19050,
+          "West": 19039
+        }
+      },
+      {
+        "Id": 19047,
+        "Name": "Guard Station #19047",
+        "Connections": {
+          "North": 19052,
+          "West": 19042
+        },
+        "Contents": [
+          {
+            "Text": "the guard captain #19030",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19048,
+        "Name": "Warriors Training #19048",
+        "Connections": {
+          "South": 19045,
+          "Down": 7432
+        },
+        "Contents": [
+          {
+            "Text": "the warrior guildmaster #19008",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19050,
+        "Name": "Thiefs Guidance #19050",
+        "Connections": {
+          "South": 19046,
+          "Down": 7403
+        },
+        "Contents": [
+          {
+            "Text": "the thief guildmaster #19014",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19052,
+        "Name": "Guard Shack #19052",
+        "Connections": {
+          "South": 19047,
+          "Down": 7409
+        },
+        "Contents": [
+          {
+            "Text": "the guard captain #19031",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19055,
+        "Name": "Ryhmers Path #19055",
+        "Connections": {
+          "North": 19010,
+          "South": 19056
+        }
+      },
+      {
+        "Id": 19056,
+        "Name": "Rhymers Path #19056",
+        "Connections": {
+          "North": 19055,
+          "South": 19057
+        }
+      },
+      {
+        "Id": 19057,
+        "Name": "Rhymers Path #19057",
+        "Connections": {
+          "North": 19056,
+          "South": 19058,
+          "West": 19065
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19033",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19058,
+        "Name": "Rhymers Path #19058",
+        "Connections": {
+          "North": 19057,
+          "South": 19059
+        }
+      },
+      {
+        "Id": 19059,
+        "Name": "Rhymers Path #19059",
+        "Connections": {
+          "North": 19058,
+          "South": 19060
+        }
+      },
+      {
+        "Id": 19060,
+        "Name": "Rhymers Path #19060",
+        "Connections": {
+          "North": 19059,
+          "South": 19061,
+          "West": 19068
+        }
+      },
+      {
+        "Id": 19061,
+        "Name": "Rhymers Path #19061",
+        "Connections": {
+          "North": 19060,
+          "South": 19062
+        }
+      },
+      {
+        "Id": 19062,
+        "Name": "Rhymers Path #19062",
+        "Connections": {
+          "North": 19061,
+          "South": 19063,
+          "Down": 19116
+        }
+      },
+      {
+        "Id": 19063,
+        "Name": "Inside the South Gate #19063",
+        "Connections": {
+          "North": 19062,
+          "South": 19064
+        },
+        "Contents": [
+          {
+            "Text": "the cityguard #19019",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19064,
+        "Name": "Outside the South Gate #19064",
+        "Connections": {
+          "North": 19063
+        }
+      },
+      {
+        "Id": 19065,
+        "Name": "Bards Guild #19065",
+        "Connections": {
+          "North": 19066,
+          "East": 19057
+        },
+        "Contents": [
+          {
+            "Text": "the traveling bard #19034",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19066,
+        "Name": "Bards Guidance #19066",
+        "Connections": {
+          "South": 19065,
+          "Down": 7010
+        },
+        "Contents": [
+          {
+            "Text": "the bard guildmaster #19032",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19068,
+        "Name": "hollow tree #19068",
+        "Connections": {
+          "North": 19069,
+          "East": 19060
+        },
+        "Contents": [
+          {
+            "Text": "the pet shop boy #19021",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19069,
+        "Name": "hollow tree #19069",
+        "Connections": {
+          "South": 19068,
+          "Down": 7441
+        }
+      },
+      {
+        "Id": 19071,
+        "Name": "Soothsayer Lane #19071",
+        "Connections": {
+          "North": 19072,
+          "South": 19010
+        }
+      },
+      {
+        "Id": 19072,
+        "Name": "Soothsayer Lane #19072",
+        "Connections": {
+          "North": 19073,
+          "South": 19071
+        }
+      },
+      {
+        "Id": 19073,
+        "Name": "Soothsayer Lane #19073",
+        "Connections": {
+          "North": 19074,
+          "South": 19072,
+          "West": 19081
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19043",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19074,
+        "Name": "Soothsayer Lane #19074",
+        "Connections": {
+          "North": 19075,
+          "South": 19073
+        }
+      },
+      {
+        "Id": 19075,
+        "Name": "Soothsayer Lane #19075",
+        "Connections": {
+          "North": 19076,
+          "South": 19074
+        }
+      },
+      {
+        "Id": 19076,
+        "Name": "Soothsayer Lane #19076",
+        "Connections": {
+          "North": 19077,
+          "South": 19075,
+          "West": 19084
+        },
+        "Contents": [
+          {
+            "Text": "the guild guard #19017",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19077,
+        "Name": "Soothsayer Lane #19077",
+        "Connections": {
+          "North": 19078,
+          "South": 19076
+        }
+      },
+      {
+        "Id": 19078,
+        "Name": "Soothsayer Lane #19078",
+        "Connections": {
+          "North": 19079,
+          "East": 19113,
+          "South": 19077
+        }
+      },
+      {
+        "Id": 19079,
+        "Name": "Soothsayer Lane #19079",
+        "Connections": {
+          "North": 19080,
+          "South": 19078
+        }
+      },
+      {
+        "Id": 19080,
+        "Name": "Dead End #19080",
+        "Connections": {
+          "South": 19079
+        }
+      },
+      {
+        "Id": 19081,
+        "Name": "Shapeshifters Guild #19081",
+        "Connections": {
+          "North": 19082,
+          "East": 19073
+        }
+      },
+      {
+        "Id": 19082,
+        "Name": "Shapeshifter Guidance #19082",
+        "Connections": {
+          "South": 19081,
+          "Down": 7110
+        },
+        "Contents": [
+          {
+            "Text": "the shapeshifter guildmaster #19042",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19084,
+        "Name": "Mages Guild #19084",
+        "Connections": {
+          "North": 19085,
+          "East": 19076
+        }
+      },
+      {
+        "Id": 19085,
+        "Name": "Mages Guidance #19085",
+        "Connections": {
+          "South": 19084,
+          "Down": 7001
+        },
+        "Contents": [
+          {
+            "Text": "the mage guildmaster #19016",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19087,
+        "Name": "Temple Altar #19087",
+        "Connections": {
+          "North": 19088,
+          "East": 19089,
+          "South": 19007,
+          "West": 19090
+        },
+        "Contents": [
+          {
+            "Text": "the healer #19018",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19088,
+        "Name": "Temple Bath #19088",
+        "Connections": {
+          "North": 19091,
+          "South": 19087
+        }
+      },
+      {
+        "Id": 19089,
+        "Name": "Temple of the Sun #19089",
+        "Connections": {
+          "West": 19087
+        }
+      },
+      {
+        "Id": 19090,
+        "Name": "Temple of The Shadow #19090",
+        "Connections": {
+          "East": 19087
+        }
+      },
+      {
+        "Id": 19091,
+        "Name": "Temple of The Moon #19091",
+        "Connections": {
+          "South": 19088
+        }
+      },
+      {
+        "Id": 19093,
+        "Name": "Merchants Lane #19093",
+        "Connections": {
+          "North": 19007,
+          "South": 19094
+        }
+      },
+      {
+        "Id": 19094,
+        "Name": "Merchants Lane #19094",
+        "Connections": {
+          "North": 19093,
+          "East": 19100,
+          "South": 19095,
+          "West": 19101
+        }
+      },
+      {
+        "Id": 19095,
+        "Name": "Merchants Lane #19095",
+        "Connections": {
+          "North": 19094,
+          "East": 19107,
+          "South": 19096
+        }
+      },
+      {
+        "Id": 19096,
+        "Name": "Merchants Lane #19096",
+        "Connections": {
+          "North": 19095,
+          "South": 19097,
+          "Down": 7030
+        }
+      },
+      {
+        "Id": 19097,
+        "Name": "Merchants Lane #19097",
+        "Connections": {
+          "North": 19096,
+          "East": 19102,
+          "South": 19098,
+          "West": 19103
+        }
+      },
+      {
+        "Id": 19098,
+        "Name": "Merchants Lane #19098",
+        "Connections": {
+          "North": 19097,
+          "South": 19099
+        }
+      },
+      {
+        "Id": 19099,
+        "Name": "Merchants Lane #19099",
+        "Connections": {
+          "North": 19098,
+          "East": 19104,
+          "West": 19105
+        }
+      },
+      {
+        "Id": 19100,
+        "Name": "General Store #19100",
+        "Connections": {
+          "West": 19094
+        },
+        "Contents": [
+          {
+            "Text": "Mack the shopkeeper #19006",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19101,
+        "Name": "Armory #19101",
+        "Connections": {
+          "East": 19094
+        },
+        "Contents": [
+          {
+            "Text": "the merchant #19020",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19102,
+        "Name": "Tanners Shop #19102",
+        "Connections": {
+          "West": 19097
+        },
+        "Contents": [
+          {
+            "Text": "Clay the tanner #19004",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19103,
+        "Name": "Weavers and Woolens #19103",
+        "Connections": {
+          "East": 19097
+        },
+        "Contents": [
+          {
+            "Text": "Beatrice the weaver #19005",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19104,
+        "Name": "Axe and Dagger #19104",
+        "Connections": {
+          "West": 19099
+        },
+        "Contents": [
+          {
+            "Text": "the weapon master #19003",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19105,
+        "Name": "Krolicks BBQ #19105",
+        "Connections": {
+          "East": 19099
+        },
+        "Contents": [
+          {
+            "Text": "the cook #19002",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19106,
+        "Name": "The Trainer #19106",
+        "Connections": {
+          "West": 19034
+        }
+      },
+      {
+        "Id": 19107,
+        "Name": "The Bank #19107",
+        "Connections": {
+          "West": 19095
+        },
+        "Contents": [
+          {
+            "Text": "a banker #19001",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19108,
+        "Name": "Park Avenue #19108",
+        "Connections": {
+          "East": 19022,
+          "West": 19109
+        }
+      },
+      {
+        "Id": 19109,
+        "Name": "Park Avenue #19109",
+        "Connections": {
+          "East": 19108,
+          "West": 19110
+        }
+      },
+      {
+        "Id": 19110,
+        "Name": "Park Avenue Intersection #19110",
+        "Connections": {
+          "North": 19111,
+          "East": 19109,
+          "West": 19112
+        }
+      },
+      {
+        "Id": 19111,
+        "Name": "Pearl Avenue #19111",
+        "Connections": {
+          "North": 19114,
+          "South": 19110
+        }
+      },
+      {
+        "Id": 19112,
+        "Name": "Park Avenue #19112",
+        "Connections": {
+          "East": 19110,
+          "West": 19113
+        }
+      },
+      {
+        "Id": 19113,
+        "Name": "Park Avenue #19113",
+        "Connections": {
+          "East": 19112,
+          "West": 19078
+        }
+      },
+      {
+        "Id": 19114,
+        "Name": "Inside the North Gate #19114",
+        "Connections": {
+          "North": 19115,
+          "South": 19111
+        },
+        "Contents": [
+          {
+            "Text": "the cityguard #19019",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19115,
+        "Name": "Outside the North Gate #19115",
+        "Connections": {
+          "South": 19114
+        }
+      },
+      {
+        "Id": 19116,
+        "Name": "Tigris River #19116",
+        "Connections": {
+          "West": 19117
+        }
+      },
+      {
+        "Id": 19117,
+        "Name": "Tigris River #19117",
+        "Connections": {
+          "East": 19116,
+          "West": 19118
+        }
+      },
+      {
+        "Id": 19118,
+        "Name": "Tigris River #19118",
+        "Connections": {
+          "East": 19117,
+          "West": 19119
+        }
+      },
+      {
+        "Id": 19119,
+        "Name": "Tigris River #19119",
+        "Connections": {
+          "East": 19118,
+          "West": 19120
+        }
+      },
+      {
+        "Id": 19120,
+        "Name": "Tigris River #19120",
+        "Connections": {
+          "East": 19119,
+          "West": 19121
+        }
+      },
+      {
+        "Id": 19121,
+        "Name": "Tigris River #19121",
+        "Connections": {
+          "East": 19120,
+          "West": 51581
+        }
+      },
+      {
+        "Id": 19122,
+        "Name": "Assassins Guild #19122",
+        "Connections": {
+          "North": 19123,
+          "East": 19124,
+          "West": 19041
+        }
+      },
+      {
+        "Id": 19123,
+        "Name": "Assassins Guidance #19123",
+        "Connections": {
+          "South": 19122
+        },
+        "Contents": [
+          {
+            "Text": "the assassin guildmaster #19036",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 19124,
+        "Name": "Secret Alcove #19124",
+        "Connections": {
+          "West": 19122
+        }
+      },
+      {
+        "Id": 51400,
+        "FrameColor": "blue",
+        "Name": "To Haon Dor #51400",
+        "Color": "blue",
+        "Connections": {
+          "North": 51565,
+          "West": 51401,
+          "East": 19014
+        }
+      },
+      {
+        "Id": 7068,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7068",
+        "Color": "blue",
+        "Connections": {
+          "North": 7067,
+          "West": 7060,
+          "Up": 19028
+        }
+      },
+      {
+        "Id": 7065,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7065",
+        "Color": "blue",
+        "Connections": {
+          "North": 7064,
+          "South": 7066,
+          "Up": 19030
+        }
+      },
+      {
+        "Id": 7062,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7062",
+        "Color": "blue",
+        "Connections": {
+          "North": 7061,
+          "South": 7063,
+          "Up": 19032
+        }
+      },
+      {
+        "Id": 7432,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7432",
+        "Color": "blue",
+        "Connections": {
+          "West": 7431,
+          "Up": 19048
+        }
+      },
+      {
+        "Id": 7403,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7403",
+        "Color": "blue",
+        "Connections": {
+          "East": 7404,
+          "South": 7408,
+          "West": 7402,
+          "Up": 19050
+        }
+      },
+      {
+        "Id": 7409,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7409",
+        "Color": "blue",
+        "Connections": {
+          "North": 7407,
+          "West": 7410,
+          "Up": 19052
+        }
+      },
+      {
+        "Id": 7010,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7010",
+        "Color": "blue",
+        "Connections": {
+          "North": 7009,
+          "East": 7018,
+          "Up": 19066
+        }
+      },
+      {
+        "Id": 7441,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7441",
+        "Color": "blue",
+        "Connections": {
+          "North": 7440,
+          "South": 7442,
+          "Up": 19069
+        }
+      },
+      {
+        "Id": 7110,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7110",
+        "Color": "blue",
+        "Connections": {
+          "North": 7109,
+          "East": 7190,
+          "South": 7111,
+          "Up": 19082
+        }
+      },
+      {
+        "Id": 7001,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7001",
+        "Color": "blue",
+        "Connections": {
+          "South": 7002,
+          "Up": 19085
+        }
+      },
+      {
+        "Id": 7030,
+        "FrameColor": "blue",
+        "Name": "To Sewers #7030",
+        "Color": "blue",
+        "Connections": {
+          "North": 7029,
+          "East": 7036,
+          "South": 7031,
+          "West": 7022,
+          "Up": 19096
+        }
+      },
+      {
+        "Id": 51581,
+        "FrameColor": "blue",
+        "Name": "To Haon Dor #51581",
+        "Color": "blue",
+        "Connections": {
+          "East": 19121,
+          "West": 51582
+        }
+      }
+    ]
+  },
+  "BuildOptions": {
+    "RemoveSolitaryRooms": true,
+    "RemoveRoomsWithSingleOutsideExit": true
+  }
+}

@@ -33,5 +33,10 @@ Another important command is `consider`. It compares your power vs target's powe
 
 ## Replenishment
 
-Your hps/mana/mvs will replenish over time. However through potions you could significally speed up that.
+Your hps/mana/mvs will replenish over time. However there is a way to significally speed that up. The way is using potions.
+
+Every new character receives 5 replenishment potions for every of 3 stats(hps, mana and moves).
+In order to use it execute `quaff healing` or `quaff mana`. It'll boost the regen of the corresponding stat for one minute.
+
+It's possible to purchase more of such potions in the Alchemist store.
 
