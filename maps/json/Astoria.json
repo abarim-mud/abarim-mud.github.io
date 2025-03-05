@@ -232,7 +232,9 @@
       },
       {
         "Id": 19024,
+        "FrameColor": "brown",
         "Name": "Wendy\u0027s Shop of Magic #19024",
+        "Color": "brown",
         "Connections": {
           "South": 19023
         },
@@ -271,16 +273,14 @@
         "Id": 19028,
         "Name": "The Priests Guidance #19028",
         "Connections": {
-          "South": 19025,
-          "Down": 7068
+          "South": 19025
         }
       },
       {
         "Id": 19030,
         "Name": "The Paladins Guidance #19030",
         "Connections": {
-          "South": 19026,
-          "Down": 7065
+          "South": 19026
         },
         "Contents": [
           {
@@ -293,8 +293,7 @@
         "Id": 19032,
         "Name": "The Healers Guidance #19032",
         "Connections": {
-          "South": 19027,
-          "Down": 7062
+          "South": 19027
         },
         "Contents": [
           {
@@ -415,7 +414,7 @@
       },
       {
         "Id": 19046,
-        "Name": "Thiefs Guild #19046",
+        "Name": "Rogue Guild #19046",
         "Connections": {
           "North": 19050,
           "West": 19039
@@ -437,10 +436,11 @@
       },
       {
         "Id": 19048,
+        "FrameColor": "brown",
         "Name": "Warriors Training #19048",
+        "Color": "brown",
         "Connections": {
-          "South": 19045,
-          "Down": 7432
+          "South": 19045
         },
         "Contents": [
           {
@@ -451,14 +451,15 @@
       },
       {
         "Id": 19050,
-        "Name": "Thiefs Guidance #19050",
+        "FrameColor": "brown",
+        "Name": "Rogue Guildance #19050",
+        "Color": "brown",
         "Connections": {
-          "South": 19046,
-          "Down": 7403
+          "South": 19046
         },
         "Contents": [
           {
-            "Text": "the thief guildmaster #19014",
+            "Text": "the rogue guildmaster #19014",
             "Color": "green"
           }
         ]
@@ -467,8 +468,7 @@
         "Id": 19052,
         "Name": "Guard Shack #19052",
         "Connections": {
-          "South": 19047,
-          "Down": 7409
+          "South": 19047
         },
         "Contents": [
           {
@@ -589,8 +589,7 @@
         "Id": 19066,
         "Name": "Bards Guidance #19066",
         "Connections": {
-          "South": 19065,
-          "Down": 7010
+          "South": 19065
         },
         "Contents": [
           {
@@ -727,8 +726,7 @@
         "Id": 19082,
         "Name": "Shapeshifter Guidance #19082",
         "Connections": {
-          "South": 19081,
-          "Down": 7110
+          "South": 19081
         },
         "Contents": [
           {
@@ -749,8 +747,7 @@
         "Id": 19085,
         "Name": "Mages Guidance #19085",
         "Connections": {
-          "South": 19084,
-          "Down": 7001
+          "South": 19084
         },
         "Contents": [
           {
@@ -761,7 +758,9 @@
       },
       {
         "Id": 19087,
+        "FrameColor": "brown",
         "Name": "Temple Altar #19087",
+        "Color": "brown",
         "Connections": {
           "North": 19088,
           "East": 19089,
@@ -869,7 +868,9 @@
       },
       {
         "Id": 19100,
+        "FrameColor": "brown",
         "Name": "General Store #19100",
+        "Color": "brown",
         "Connections": {
           "West": 19094
         },
@@ -882,7 +883,9 @@
       },
       {
         "Id": 19101,
+        "FrameColor": "brown",
         "Name": "Armory #19101",
+        "Color": "brown",
         "Connections": {
           "East": 19094
         },
@@ -1123,83 +1126,6 @@
         }
       },
       {
-        "Id": 7068,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7068",
-        "Color": "blue",
-        "Connections": {
-          "North": 7067,
-          "West": 7060,
-          "Up": 19028
-        }
-      },
-      {
-        "Id": 7065,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7065",
-        "Color": "blue",
-        "Connections": {
-          "North": 7064,
-          "South": 7066,
-          "Up": 19030
-        }
-      },
-      {
-        "Id": 7062,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7062",
-        "Color": "blue",
-        "Connections": {
-          "North": 7061,
-          "South": 7063,
-          "Up": 19032
-        }
-      },
-      {
-        "Id": 7432,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7432",
-        "Color": "blue",
-        "Connections": {
-          "West": 7431,
-          "Up": 19048
-        }
-      },
-      {
-        "Id": 7403,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7403",
-        "Color": "blue",
-        "Connections": {
-          "East": 7404,
-          "South": 7408,
-          "West": 7402,
-          "Up": 19050
-        }
-      },
-      {
-        "Id": 7409,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7409",
-        "Color": "blue",
-        "Connections": {
-          "North": 7407,
-          "West": 7410,
-          "Up": 19052
-        }
-      },
-      {
-        "Id": 7010,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7010",
-        "Color": "blue",
-        "Connections": {
-          "North": 7009,
-          "East": 7018,
-          "Up": 19066
-        }
-      },
-      {
         "Id": 7441,
         "FrameColor": "blue",
         "Name": "To Sewers #7441",
@@ -1208,28 +1134,6 @@
           "North": 7440,
           "South": 7442,
           "Up": 19069
-        }
-      },
-      {
-        "Id": 7110,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7110",
-        "Color": "blue",
-        "Connections": {
-          "North": 7109,
-          "East": 7190,
-          "South": 7111,
-          "Up": 19082
-        }
-      },
-      {
-        "Id": 7001,
-        "FrameColor": "blue",
-        "Name": "To Sewers #7001",
-        "Color": "blue",
-        "Connections": {
-          "South": 7002,
-          "Up": 19085
         }
       },
       {

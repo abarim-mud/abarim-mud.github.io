@@ -9,8 +9,7 @@
         "Id": 7001,
         "Name": "The muddy sewer #7001",
         "Connections": {
-          "South": 7002,
-          "Up": 19085
+          "South": 7002
         }
       },
       {
@@ -96,8 +95,7 @@
         "Name": "A bend in sewer pipe #7010",
         "Connections": {
           "North": 7009,
-          "East": 7018,
-          "Up": 19066
+          "East": 7018
         }
       },
       {
@@ -510,8 +508,7 @@
         "Name": "The Watery sewer #7062",
         "Connections": {
           "North": 7061,
-          "South": 7063,
-          "Up": 19032
+          "South": 7063
         }
       },
       {
@@ -536,8 +533,7 @@
         "Name": "The Watery sewer #7065",
         "Connections": {
           "North": 7064,
-          "South": 7066,
-          "Up": 19030
+          "South": 7066
         }
       },
       {
@@ -562,8 +558,7 @@
         "Name": "The Watery sewer bend #7068",
         "Connections": {
           "North": 7067,
-          "West": 7060,
-          "Up": 19028
+          "West": 7060
         }
       },
       {
@@ -708,8 +703,7 @@
         "Connections": {
           "North": 7109,
           "East": 7190,
-          "South": 7111,
-          "Up": 19082
+          "South": 7111
         }
       },
       {
@@ -1354,8 +1348,7 @@
         "Connections": {
           "East": 7404,
           "South": 7408,
-          "West": 7402,
-          "Up": 19050
+          "West": 7402
         },
         "Contents": [
           {
@@ -1416,8 +1409,7 @@
         "Name": "The hot room #7409",
         "Connections": {
           "North": 7407,
-          "West": 7410,
-          "Up": 19052
+          "West": 7410
         }
       },
       {
@@ -1650,8 +1642,7 @@
         "Id": 7432,
         "Name": "The secret passageroom #7432",
         "Connections": {
-          "West": 7431,
-          "Up": 19048
+          "West": 7431
         }
       },
       {
@@ -1782,26 +1773,6 @@
         }
       },
       {
-        "Id": 19085,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19085",
-        "Color": "blue",
-        "Connections": {
-          "South": 19084,
-          "Down": 7001
-        }
-      },
-      {
-        "Id": 19066,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19066",
-        "Color": "blue",
-        "Connections": {
-          "South": 19065,
-          "Down": 7010
-        }
-      },
-      {
         "Id": 19096,
         "FrameColor": "blue",
         "Name": "To Astoria #19096",
@@ -1810,76 +1781,6 @@
           "North": 19095,
           "South": 19097,
           "Down": 7030
-        }
-      },
-      {
-        "Id": 19032,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19032",
-        "Color": "blue",
-        "Connections": {
-          "South": 19027,
-          "Down": 7062
-        }
-      },
-      {
-        "Id": 19030,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19030",
-        "Color": "blue",
-        "Connections": {
-          "South": 19026,
-          "Down": 7065
-        }
-      },
-      {
-        "Id": 19028,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19028",
-        "Color": "blue",
-        "Connections": {
-          "South": 19025,
-          "Down": 7068
-        }
-      },
-      {
-        "Id": 19082,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19082",
-        "Color": "blue",
-        "Connections": {
-          "South": 19081,
-          "Down": 7110
-        }
-      },
-      {
-        "Id": 19050,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19050",
-        "Color": "blue",
-        "Connections": {
-          "South": 19046,
-          "Down": 7403
-        }
-      },
-      {
-        "Id": 19052,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19052",
-        "Color": "blue",
-        "Connections": {
-          "South": 19047,
-          "Down": 7409
-        }
-      },
-      {
-        "Id": 19048,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19048",
-        "Color": "blue",
-        "Connections": {
-          "South": 19045,
-          "Down": 7432
         }
       },
       {
