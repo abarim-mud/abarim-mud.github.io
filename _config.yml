@@ -52,7 +52,6 @@ plugins:
 
 header_pages:
   - index.markdown
-  - concepts.markdown
   - player.markdown
   - library.markdown
   - cartography.markdown

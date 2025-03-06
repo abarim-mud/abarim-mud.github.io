@@ -7,6 +7,12 @@ title: Player's Guide
 
 This guide is aimed towards the experienced MUD players in order to help them get familiar with AbarimMUD.
 
+## Classes, Leveling Up and Skill Points
+AbarimMUD has 4 standard RPG classes: Warrior, Rogue, Mage and Cleric.
+A player chooses one of it as their primary class when creating the character.
+The class and level would determine the player hitpoints/mana/moves/etc.
+Also there are abilities that are exclusive only for specific classes (aka primary abilities).
+
 ## Starting Up
 
 AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
@@ -50,3 +56,25 @@ In order to use it execute `quaff healing` or `quaff mana`. It'll boost the rege
 Such potions are random pop from any types of mobiles. Also it's possible to purchase more of such potions in the Alchemist store.
 Finally it's possible to exchange potions of different types there.
 
+## Level Ups and Skills
+
+There are many skills. Each skill can have 5 levels of the advancement: Novice, Apprentice, Adept, Expert, Master.
+Gaining/advancing skills grants various parameters and abilities.
+
+Every level a player receives 1 skill point. Also additional skill point every 10th level.
+Advancing different skills cost different amount of skill points. 
+I.e. advancing Melee skill to the second level costs 2 skill points.
+While Lockpicking skill costs 1 skill point.
+
+Eventually it should be possible to max out all skills.
+
+Every skill belongs to the specified class. I.e. Melee skill belongs to Warrior. While Sneak belongs to Rogue.
+Advancing a skill occurs by the guildmaster of the corresponding class.
+
+As it was said above advancing a skill costs skill points.
+Also it costs gold.
+The amount of gold is determined by the total of amount of the skills levels gained already.
+The bigger the amount - the bigger the cost.
+
+There's level constraints on the skills' advancement: you can't advance a skill to Apprentice/Adept/Expert/Master 
+unless you reached levels 5/10/15/20 if the skill belongs to your class, or unless you reached levels 10/20/30/40 if the skill doesn't.
