@@ -18,7 +18,7 @@ Also there are abilities that are exclusive only for specific classes (aka prima
 AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
 
 Check the [cartography](/cartography.html) section.
-You'll start in the Northern Midgaard in the room "Temple Altar" (#19087).
+You'll start in the Astoria at the room "Temple Altar" (#19087).
 
 You could always return to that room using command `recall`, which costs 35 mana.
 
