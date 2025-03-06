@@ -49,3 +49,4 @@ In order to use it execute `quaff healing` or `quaff mana`. It'll boost the rege
 
 Such potions are random pop from any types of mobiles. Also it's possible to purchase more of such potions in the Alchemist store.
 Finally it's possible to exchange potions of different types there.
+
