@@ -20,8 +20,8 @@ custom_js:
 
 Name | Credits | Min Level | Max Level
 -----| ------- | --------- | ---------
-[Arachnos.png](/maps/png/Arachnos.png) | Mahatma | 5 | 20
-[Astoria.png](/maps/png/Astoria.png) | | ALL | ALL
-[Haon Dor.png](/maps/png/Haon Dor.png) | Diku | 1 | 20
-[Sewers.png](/maps/png/Sewers.png) | Poohb | 5 | 35
+[Arachnos](/maps/png/Arachnos.png) | Mahatma | 5 | 20
+[Astoria](/maps/png/Astoria.png) | | ALL | ALL
+[Haon Dor](/maps/png/Haon Dor.png) | Diku | 1 | 20
+[Sewers](/maps/png/Sewers.png) | Poohb | 5 | 35
 {: .datatable}
