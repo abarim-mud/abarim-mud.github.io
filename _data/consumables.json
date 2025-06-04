@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "a novice potion of healing",
+    "Type": "Potion",
+    "Price": "200",
+    "Affects": [
+      "raises HpRegenAbsolute2 by 60 for 60 seconds."
+    ]
+  },
+  {
+    "Name": "a novice potion of mana",
+    "Type": "Potion",
+    "Price": "400",
+    "Affects": [
+      "raises ManaRegenAbsolute2 by 60 for 60 seconds."
+    ]
+  },
+  {
+    "Name": "a novice potion of moves",
+    "Type": "Potion",
+    "Price": "200",
+    "Affects": [
+      "raises MovesRegenAbsolute2 by 60 for 60 seconds."
+    ]
+  }
+]

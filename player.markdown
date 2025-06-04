@@ -19,9 +19,9 @@ Also there are abilities that are exclusive only for specific classes (aka prima
 AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
 
 Check the [cartography]({% link cartography.markdown %}) section.
-Particularly map of Astoria. Since you'll start in that area at the room "Temple Altar" (#19087).
+Particularly check the map of Astoria. All important rooms are marked with the special color.
 
-All important rooms - including the above recall point - are marked with special color.
+You'll start in that area at the room "Temple Altar" (#19087).
 
 You could always return to that room using command `recall`, which costs 35 mana.
 
@@ -64,7 +64,8 @@ Finally it's possible to exchange potions of different types there.
 
 ## Level Ups and Skills
 
-There are many skills. Each skill can have 5 levels of the advancement: Novice, Apprentice, Adept, Expert, Master.
+AbarimMUD is skill-base game. There are many skills. 
+Each skill can have 5 levels of the advancement: Novice, Apprentice, Adept, Expert and Master.
 Gaining/advancing skills grants various parameters and abilities.
 
 Every level a player receives 1 skill point. Also additional skill point every 10th level.
@@ -76,10 +77,40 @@ Every skill belongs to the specified class. I.e. Melee skill belongs to Warrior.
 Advancing a skill occurs by going to the guildmaster of the corresponding class and executing command `train`.
 You'll be instructed on how to do the skill advancement.
 
-There's level constraints on the skills' advancement: you can't advance a skill to Apprentice/Adept/Expert/Master 
-unless you reached levels 5/10/15/20 if the skill belongs to your class, or unless you reached levels 10/20/30/40 if the skill doesn't.
+There are level constraints on the skills' advancement: you can't advance a skill to Apprentice/Adept/Expert/Master 
+unless you reached levels 5/10/15/20 if the skill belongs to your class, or unless you reached levels 10/20/30/40 if it doesn't.
 
 The [skills]({% link skills.markdown %}) page contains the full list of the skills.
 
-## Shops, Forges, Exchanges
+## Shops
+
+Shops are used to buy and sell items. Relevant commands are `list`, `buy _item_` and `sell _item`.
+
+Blacksmith is the place where the equipment could be traded.
+
+Alchemist Store is the place where potions could be traded.
+
+Magic Shop is the place where scrolls could be traded.
+
+## Forges
+
+Forging is the way to equipment.
+It requires materials(which are random pop for now) and gold coins.
+Relevant commands are `forge list` and `forge _item_`.
+
+Blacksmith is the place where the regular equiment could be forged.
+
+## Exchanges
+
+Echanging is the way to trade one type of items to other. Relevant commands are `exchange list` and `echange _number`.
+
+Blacksmith is the place where forge materials could be echanged.
+
+Alchemist Store is the place where potions could be exchanged.
+
+## Enchantment
+
+Enchantment is the way to further improve characteristics of an equipment item.
+
+Not 
 

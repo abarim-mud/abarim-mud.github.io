@@ -1,6 +1,7 @@
 {
   "Area": {
     "Name": "Haon Dor",
+    "Credits": "Diku",
     "MinimumLevel": "5",
     "MaximumLevel": "10",
     "BackgroundColor": "white",

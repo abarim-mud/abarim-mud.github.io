@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Arachnos",
+    "Credits": "Mahatma",
+    "MinLevel": "5",
+    "MaxLevel": "20"
+  },
+  {
+    "Name": "Astoria",
+    "Credits": "Astoria",
+    "MinLevel": "ALL",
+    "MaxLevel": "ALL"
+  },
+  {
+    "Name": "Haon Dor",
+    "Credits": "Diku",
+    "MinLevel": "5",
+    "MaxLevel": "10"
+  },
+  {
+    "Name": "Plains",
+    "Credits": "Copper",
+    "MinLevel": "1",
+    "MaxLevel": "20"
+  },
+  {
+    "Name": "Sewers",
+    "Credits": "Diku",
+    "MinLevel": "5",
+    "MaxLevel": "30"
+  }
+]

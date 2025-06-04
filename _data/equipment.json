@@ -1,0 +1,285 @@
+[
+  {
+    "Name": "a leather armor",
+    "Slot": "Body",
+    "Price": "1000",
+    "EnchantmentTier": "1",
+    "Stats": "9",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron armor",
+    "Slot": "Body",
+    "Price": "1000",
+    "EnchantmentTier": "1",
+    "Stats": "16",
+    "Affects": {}
+  },
+  {
+    "Name": "The Jacket of Bruce Lee",
+    "Slot": "Body",
+    "Price": "800000000",
+    "EnchantmentTier": "",
+    "Stats": "120",
+    "Affects": {
+      "DamageReduction": "20"
+    }
+  },
+  {
+    "Name": "a cloak of the rookie",
+    "Slot": "Cloak",
+    "Price": "1000",
+    "EnchantmentTier": "",
+    "Stats": "0",
+    "Affects": {
+      "AttackBonus": "10"
+    }
+  },
+  {
+    "Name": "a leather boots",
+    "Slot": "Feet",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "1",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron boots",
+    "Slot": "Feet",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "2",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron ring",
+    "Slot": "Finger",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "1",
+    "Affects": {}
+  },
+  {
+    "Name": "a leather gloves",
+    "Slot": "Hands",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "1",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron gloves",
+    "Slot": "Hands",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "2",
+    "Affects": {}
+  },
+  {
+    "Name": "The Gloves Of Jet Li",
+    "Slot": "Hands",
+    "Price": "40000",
+    "EnchantmentTier": "",
+    "Stats": "4",
+    "Affects": {
+      "MartialArtsAttackBonus": "200",
+      "MartialArtsDamage": "50"
+    }
+  },
+  {
+    "Name": "a leather helmet",
+    "Slot": "Head",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "4",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron helmet",
+    "Slot": "Head",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "6",
+    "Affects": {}
+  },
+  {
+    "Name": "a leather pants",
+    "Slot": "Legs",
+    "Price": "800",
+    "EnchantmentTier": "1",
+    "Stats": "4",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron greaves",
+    "Slot": "Legs",
+    "Price": "800",
+    "EnchantmentTier": "1",
+    "Stats": "8",
+    "Affects": {}
+  },
+  {
+    "Name": "The Pants of Bruce Lee",
+    "Slot": "Legs",
+    "Price": "80000000",
+    "EnchantmentTier": "",
+    "Stats": "80",
+    "Affects": {
+      "DamageReduction": "15"
+    }
+  },
+  {
+    "Name": "a green lantern",
+    "Slot": "Light",
+    "Price": "1000",
+    "EnchantmentTier": "",
+    "Stats": "0",
+    "Affects": {
+      "AttackBonus": "10"
+    }
+  },
+  {
+    "Name": "a leather gorget",
+    "Slot": "Neck",
+    "Price": "200",
+    "EnchantmentTier": "1",
+    "Stats": "2",
+    "Affects": {}
+  },
+  {
+    "Name": "a leather shoulder guards",
+    "Slot": "Neck",
+    "Price": "300",
+    "EnchantmentTier": "1",
+    "Stats": "3",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron gorget",
+    "Slot": "Neck",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "4",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron shoulder guards",
+    "Slot": "Neck",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "5",
+    "Affects": {}
+  },
+  {
+    "Name": "a leather shield",
+    "Slot": "Shield",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "4",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron shield",
+    "Slot": "Shield",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "5",
+    "Affects": {}
+  },
+  {
+    "Name": "a leather belt",
+    "Slot": "Waist",
+    "Price": "200",
+    "EnchantmentTier": "1",
+    "Stats": "0",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron belt",
+    "Slot": "Waist",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "1",
+    "Affects": {}
+  },
+  {
+    "Name": "a death dagger",
+    "Slot": "Wield",
+    "Price": "100",
+    "EnchantmentTier": "",
+    "Stats": "50-80",
+    "Affects": {
+      "Stab": "true",
+      "WeaponAttackBonus": "50"
+    }
+  },
+  {
+    "Name": "a mithril dagger",
+    "Slot": "Wield",
+    "Price": "1000000",
+    "EnchantmentTier": "5",
+    "Stats": "3-18",
+    "Affects": {
+      "Stab": "true",
+      "WeaponAttackBonus": "30"
+    }
+  },
+  {
+    "Name": "an iron axe",
+    "Slot": "Wield",
+    "Price": "800",
+    "EnchantmentTier": "1",
+    "Stats": "1-8",
+    "Affects": {
+      "WeaponDamage": "2"
+    }
+  },
+  {
+    "Name": "an iron dagger",
+    "Slot": "Wield",
+    "Price": "500",
+    "EnchantmentTier": "1",
+    "Stats": "1-6",
+    "Affects": {
+      "Stab": "true",
+      "WeaponAttackBonus": "10"
+    }
+  },
+  {
+    "Name": "an iron mace",
+    "Slot": "Wield",
+    "Price": "800",
+    "EnchantmentTier": "1",
+    "Stats": "1-8",
+    "Affects": {
+      "WeaponAttackBonus": "20"
+    }
+  },
+  {
+    "Name": "an iron sword",
+    "Slot": "Wield",
+    "Price": "800",
+    "EnchantmentTier": "1",
+    "Stats": "1-8",
+    "Affects": {
+      "WeaponAttackBonus": "10",
+      "WeaponDamage": "1"
+    }
+  },
+  {
+    "Name": "a leather bracer",
+    "Slot": "Wrist",
+    "Price": "200",
+    "EnchantmentTier": "1",
+    "Stats": "0",
+    "Affects": {}
+  },
+  {
+    "Name": "an iron bracer",
+    "Slot": "Wrist",
+    "Price": "400",
+    "EnchantmentTier": "1",
+    "Stats": "1",
+    "Affects": {}
+  }
+]

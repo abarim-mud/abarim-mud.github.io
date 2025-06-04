@@ -1,6 +1,7 @@
 {
   "Area": {
     "Name": "Astoria",
+    "Credits": "Astoria",
     "MinimumLevel": "ALL",
     "MaximumLevel": "ALL",
     "BackgroundColor": "white",
@@ -1096,7 +1097,9 @@
       },
       {
         "Id": 19123,
+        "FrameColor": "brown",
         "Name": "Assassins Guidance #19123",
+        "Color": "brown",
         "Connections": {
           "South": 19122
         },

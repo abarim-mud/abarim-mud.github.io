@@ -1,6 +1,7 @@
 {
   "Area": {
     "Name": "Arachnos",
+    "Credits": "Mahatma",
     "MinimumLevel": "5",
     "MaximumLevel": "20",
     "BackgroundColor": "white",

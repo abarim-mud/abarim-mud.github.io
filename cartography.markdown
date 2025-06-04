@@ -12,16 +12,29 @@ custom_js:
 
 <script>
 	$(document).ready( function () {
-		$('table.datatable').DataTable({
-			paging: false		
+		$('#areas').DataTable({
+			paging: false
 		});
 	});
 </script> 
 
-Name | Credits | Min Level | Max Level
------| ------- | --------- | ---------
-[Arachnos](/maps/png/Arachnos.png) | Mahatma | 5 | 20
-[Astoria](/maps/png/Astoria.png) | | ALL | ALL
-[Haon Dor](/maps/png/Haon Dor.png) | Diku | 1 | 20
-[Sewers](/maps/png/Sewers.png) | Poohb | 5 | 35
-{: .datatable}
+<table id="areas" class="display">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Credits</th>
+            <th>Min Level</th>
+            <th>Max Level</th>
+        </tr>
+    </thead>
+    <tbody>
+		{% for area in site.data.areas %}
+			<tr>
+				<td><a href="/maps/png/{{ area.Name }}.png">{{ area.Name }}</a></td>
+				<td>{{ area.Credits }}</td>
+				<td>{{ area.MinLevel }}</td>
+				<td>{{ area.MaxLevel }}</td>
+			</tr>
+		{% endfor %}
+    </tbody>
+</table>

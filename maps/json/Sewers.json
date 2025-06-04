@@ -1,6 +1,7 @@
 {
   "Area": {
     "Name": "Sewers",
+    "Credits": "Diku",
     "MinimumLevel": "5",
     "MaximumLevel": "30",
     "BackgroundColor": "white",
