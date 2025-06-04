@@ -1,285 +1,326 @@
 [
   {
-    "Name": "a leather armor",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;armor",
     "Slot": "Body",
+    "Material": "Leather",
     "Price": "1000",
     "EnchantmentTier": "1",
     "Stats": "9",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron armor",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;armor",
     "Slot": "Body",
+    "Material": "Iron",
     "Price": "1000",
     "EnchantmentTier": "1",
     "Stats": "16",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "The Jacket of Bruce Lee",
-    "Slot": "Body",
-    "Price": "800000000",
-    "EnchantmentTier": "",
-    "Stats": "120",
-    "Affects": {
-      "DamageReduction": "20"
-    }
-  },
-  {
-    "Name": "a cloak of the rookie",
+    "Name": "a\u0026nbsp;cloak\u0026nbsp;of\u0026nbsp;the\u0026nbsp;rookie",
     "Slot": "Cloak",
+    "Material": "",
     "Price": "1000",
     "EnchantmentTier": "",
     "Stats": "0",
-    "Affects": {
-      "AttackBonus": "10"
-    }
+    "Affects": [
+      "\u002B10\u0026nbsp;AttackBonus"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "a leather boots",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;boots",
     "Slot": "Feet",
+    "Material": "Leather",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "1",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron boots",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;boots",
     "Slot": "Feet",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "2",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron ring",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;ring",
     "Slot": "Finger",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "1",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "an\u0026nbsp;iron\u0026nbsp;ingot\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "a leather gloves",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;gloves",
     "Slot": "Hands",
+    "Material": "Leather",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "1",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron gloves",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;gloves",
     "Slot": "Hands",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "2",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "The Gloves Of Jet Li",
-    "Slot": "Hands",
-    "Price": "40000",
-    "EnchantmentTier": "",
-    "Stats": "4",
-    "Affects": {
-      "MartialArtsAttackBonus": "200",
-      "MartialArtsDamage": "50"
-    }
-  },
-  {
-    "Name": "a leather helmet",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;helmet",
     "Slot": "Head",
+    "Material": "Leather",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "4",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron helmet",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;helmet",
     "Slot": "Head",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "6",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "a leather pants",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;pants",
     "Slot": "Legs",
+    "Material": "Leather",
     "Price": "800",
     "EnchantmentTier": "1",
     "Stats": "4",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron greaves",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;greaves",
     "Slot": "Legs",
+    "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
     "Stats": "8",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "The Pants of Bruce Lee",
-    "Slot": "Legs",
-    "Price": "80000000",
-    "EnchantmentTier": "",
-    "Stats": "80",
-    "Affects": {
-      "DamageReduction": "15"
-    }
-  },
-  {
-    "Name": "a green lantern",
+    "Name": "a\u0026nbsp;green\u0026nbsp;lantern",
     "Slot": "Light",
+    "Material": "",
     "Price": "1000",
     "EnchantmentTier": "",
     "Stats": "0",
-    "Affects": {
-      "AttackBonus": "10"
-    }
+    "Affects": [
+      "\u002B10\u0026nbsp;AttackBonus"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "a leather gorget",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;gorget",
     "Slot": "Neck",
+    "Material": "Leather",
     "Price": "200",
     "EnchantmentTier": "1",
     "Stats": "2",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "a\u0026nbsp;chunk\u0026nbsp;of\u0026nbsp;leather\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "a leather shoulder guards",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;shoulder\u0026nbsp;guards",
     "Slot": "Neck",
+    "Material": "Leather",
     "Price": "300",
     "EnchantmentTier": "1",
     "Stats": "3",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "a\u0026nbsp;chunk\u0026nbsp;of\u0026nbsp;leather\u0026nbsp;(3)"
+    ]
   },
   {
-    "Name": "an iron gorget",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;gorget",
     "Slot": "Neck",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "4",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "an\u0026nbsp;iron\u0026nbsp;ingot\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "an iron shoulder guards",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;shoulder\u0026nbsp;guards",
     "Slot": "Neck",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "5",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "an\u0026nbsp;iron\u0026nbsp;ingot\u0026nbsp;(3)"
+    ]
   },
   {
-    "Name": "a leather shield",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;shield",
     "Slot": "Shield",
+    "Material": "Leather",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "4",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron shield",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;shield",
     "Slot": "Shield",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "5",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": []
   },
   {
-    "Name": "a leather belt",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;belt",
     "Slot": "Waist",
+    "Material": "Leather",
     "Price": "200",
     "EnchantmentTier": "1",
     "Stats": "0",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "a\u0026nbsp;chunk\u0026nbsp;of\u0026nbsp;leather\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "an iron belt",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;belt",
     "Slot": "Waist",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "1",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "an\u0026nbsp;iron\u0026nbsp;ingot\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "a death dagger",
+    "Name": "a\u0026nbsp;mithril\u0026nbsp;dagger",
     "Slot": "Wield",
-    "Price": "100",
-    "EnchantmentTier": "",
-    "Stats": "50-80",
-    "Affects": {
-      "Stab": "true",
-      "WeaponAttackBonus": "50"
-    }
-  },
-  {
-    "Name": "a mithril dagger",
-    "Slot": "Wield",
+    "Material": "Mithril",
     "Price": "1000000",
     "EnchantmentTier": "5",
     "Stats": "3-18",
-    "Affects": {
-      "Stab": "true",
-      "WeaponAttackBonus": "30"
-    }
+    "Affects": [
+      "Stab",
+      "\u002B30\u0026nbsp;WeaponAttackBonus"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron axe",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;axe",
     "Slot": "Wield",
+    "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
     "Stats": "1-8",
-    "Affects": {
-      "WeaponDamage": "2"
-    }
+    "Affects": [
+      "\u002B2\u0026nbsp;WeaponDamage"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron dagger",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;dagger",
     "Slot": "Wield",
+    "Material": "Iron",
     "Price": "500",
     "EnchantmentTier": "1",
     "Stats": "1-6",
-    "Affects": {
-      "Stab": "true",
-      "WeaponAttackBonus": "10"
-    }
+    "Affects": [
+      "Stab",
+      "\u002B10\u0026nbsp;WeaponAttackBonus"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron mace",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;mace",
     "Slot": "Wield",
+    "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
     "Stats": "1-8",
-    "Affects": {
-      "WeaponAttackBonus": "20"
-    }
+    "Affects": [
+      "\u002B20\u0026nbsp;WeaponAttackBonus"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "an iron sword",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;sword",
     "Slot": "Wield",
+    "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
     "Stats": "1-8",
-    "Affects": {
-      "WeaponAttackBonus": "10",
-      "WeaponDamage": "1"
-    }
+    "Affects": [
+      "\u002B10\u0026nbsp;WeaponAttackBonus",
+      "\u002B1\u0026nbsp;WeaponDamage"
+    ],
+    "ForgeComponents": []
   },
   {
-    "Name": "a leather bracer",
+    "Name": "a\u0026nbsp;leather\u0026nbsp;bracer",
     "Slot": "Wrist",
+    "Material": "Leather",
     "Price": "200",
     "EnchantmentTier": "1",
     "Stats": "0",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "a\u0026nbsp;chunk\u0026nbsp;of\u0026nbsp;leather\u0026nbsp;(2)"
+    ]
   },
   {
-    "Name": "an iron bracer",
+    "Name": "an\u0026nbsp;iron\u0026nbsp;bracer",
     "Slot": "Wrist",
+    "Material": "Iron",
     "Price": "400",
     "EnchantmentTier": "1",
     "Stats": "1",
-    "Affects": {}
+    "Affects": [],
+    "ForgeComponents": [
+      "100\u0026nbsp;gold\u0026nbsp;coins",
+      "an\u0026nbsp;iron\u0026nbsp;ingot\u0026nbsp;(2)"
+    ]
   }
 ]

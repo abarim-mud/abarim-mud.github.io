@@ -62,6 +62,8 @@ In order to use it execute `quaff healing` or `quaff mana`. It'll boost the rege
 Such potions are random pop from mobiles. Also it's possible to purchase more of such potions in the Alchemist store.
 Finally it's possible to exchange potions of different types there.
 
+See [consumables]({% link consumables.markdown %}) for the list of potions.
+
 ## Level Ups and Skills
 
 AbarimMUD is skill-base game. There are many skills. 
@@ -100,6 +102,8 @@ Relevant commands are `forge list` and `forge _item_`.
 
 Blacksmith is the place where the regular equiment could be forged.
 
+See [equipment]({% link equipment.markdown %}) for the list of forges.
+
 ## Exchanges
 
 Echanging is the way to trade one type of items to other. Relevant commands are `exchange list` and `echange _number`.
@@ -110,7 +114,16 @@ Alchemist Store is the place where potions could be exchanged.
 
 ## Enchantment
 
-Enchantment is the way to further improve characteristics of an equipment item.
+Enchantment is the way to improve characteristics of an equipment item.
 
-Not 
+It requires special enchantment stones(which are random pop for now) and gold coins.
+
+There are four types of enchantment stones: tiny, small, average and large.
+
+Every equipment item has enchantment tier, which specifies what type of the enchantment stones is required.
+
+See [equipment]({% link equipment.markdown %}) for the list of items' enchantment tiers.
+
+If an item has empty enchantment tier, then it couldn't be enchanted.
+
 

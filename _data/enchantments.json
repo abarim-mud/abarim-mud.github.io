@@ -1,0 +1,73 @@
+[
+  {
+    "Name": "accuracy",
+    "Stones": "4",
+    "Slots": "Any",
+    "Materials": "Leather",
+    "Price": "1000",
+    "Affects": [
+      "\u002B10\u0026nbsp;AttackBonus"
+    ]
+  },
+  {
+    "Name": "damage",
+    "Stones": "8",
+    "Slots": "Body, Wrist, Hands",
+    "Materials": "Leather",
+    "Price": "4000",
+    "Affects": [
+      "\u002B1\u0026nbsp;Damage"
+    ]
+  },
+  {
+    "Name": "fury",
+    "Stones": "10",
+    "Slots": "Wield",
+    "Materials": "Any",
+    "Price": "10000",
+    "Affects": [
+      "\u002B20\u0026nbsp;AttackBonus",
+      "\u002B2\u0026nbsp;Damage"
+    ]
+  },
+  {
+    "Name": "health",
+    "Stones": "2",
+    "Slots": "Any",
+    "Materials": "Any",
+    "Price": "1000",
+    "Affects": [
+      "\u002B5\u0026nbsp;Hitpoints"
+    ]
+  },
+  {
+    "Name": "magic",
+    "Stones": "2",
+    "Slots": "Any",
+    "Materials": "Any",
+    "Price": "1000",
+    "Affects": [
+      "\u002B5\u0026nbsp;Mana"
+    ]
+  },
+  {
+    "Name": "martial arts",
+    "Stones": "8",
+    "Slots": "Body, Waist, Hands",
+    "Materials": "Leather",
+    "Price": "4000",
+    "Affects": [
+      "\u002B2\u0026nbsp;MartialArtsDamage"
+    ]
+  },
+  {
+    "Name": "stamina",
+    "Stones": "2",
+    "Slots": "Any",
+    "Materials": "Any",
+    "Price": "1000",
+    "Affects": [
+      "\u002B5\u0026nbsp;Moves"
+    ]
+  }
+]
