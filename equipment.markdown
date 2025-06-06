@@ -24,9 +24,8 @@ custom_js:
         <tr>
             <th>Name</th>
             <th>Slot</th>
-            <th>Price</th>
-            <th>Enchantment Tier</th>
-			<th>Stats</th>
+			<th>S</th>
+            <th>E</th>
 			<th>Affects</th>
 			<th>Forge Components</th>
         </tr>
@@ -36,9 +35,8 @@ custom_js:
 			<tr>
 				<td>{{ eq.Name }}</td>
 				<td>{{ eq.Slot }}</td>
-				<td>{{ eq.Price }}</td>
-				<td>{{ eq.EnchantmentTier }}</td>
 				<td>{{ eq.Stats }}</td>
+				<td>{{ eq.EnchantmentTier }}</td>
 				<td>
 					{% for affect in eq.Affects %}
 						{{ affect }}<br/>
