@@ -27,7 +27,7 @@ custom_js:
 			<th>S</th>
             <th>E</th>
 			<th>Affects</th>
-			<th>Forge Components</th>
+			<th>Forge</th>
         </tr>
     </thead>
     <tbody>
