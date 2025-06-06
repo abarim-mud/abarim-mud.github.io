@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Items
+title: Enchantments
 custom_css:
 - https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css
 
