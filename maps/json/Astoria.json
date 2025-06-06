@@ -870,14 +870,14 @@
       {
         "Id": 19100,
         "FrameColor": "brown",
-        "Name": "General Store #19100",
+        "Name": "Alchemist Store #19100",
         "Color": "brown",
         "Connections": {
           "West": 19094
         },
         "Contents": [
           {
-            "Text": "Mack the shopkeeper #19006",
+            "Text": "Malrik the alchemist #19006",
             "Color": "green"
           }
         ]
@@ -885,14 +885,14 @@
       {
         "Id": 19101,
         "FrameColor": "brown",
-        "Name": "Armory #19101",
+        "Name": "Blacksmith #19101",
         "Color": "brown",
         "Connections": {
           "East": 19094
         },
         "Contents": [
           {
-            "Text": "the merchant #19020",
+            "Text": "Thane the blacksmith #19020",
             "Color": "green"
           }
         ]
@@ -1088,34 +1088,26 @@
       },
       {
         "Id": 19122,
-        "Name": "Assassins Guild #19122",
+        "Name": "Monks Guild #19122",
         "Connections": {
           "North": 19123,
-          "East": 19124,
           "West": 19041
         }
       },
       {
         "Id": 19123,
         "FrameColor": "brown",
-        "Name": "Assassins Guidance #19123",
+        "Name": "Monks Guidance #19123",
         "Color": "brown",
         "Connections": {
           "South": 19122
         },
         "Contents": [
           {
-            "Text": "the assassin guildmaster #19036",
+            "Text": "the monk guildmaster #19036",
             "Color": "green"
           }
         ]
-      },
-      {
-        "Id": 19124,
-        "Name": "Secret Alcove #19124",
-        "Connections": {
-          "West": 19122
-        }
       },
       {
         "Id": 51400,

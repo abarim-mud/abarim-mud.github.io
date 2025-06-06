@@ -9,7 +9,8 @@ This guide is aimed towards the experienced MUD players in order to help them ge
 
 ## Character Creation
 
-AbarimMUD has 4 standard RPG classes: Warrior, Rogue, Mage and Cleric.
+AbarimMUD has 3 RPG classes for now: Warrior, Rogue and Monk.
+
 A player chooses one of it as their primary class when creating the character.
 The class and level would determine the player hitpoints/mana/moves/etc.
 Also there are abilities that are exclusive only for specific classes (aka primary abilities).

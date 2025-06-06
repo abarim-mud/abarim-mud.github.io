@@ -18,12 +18,6 @@
     "MaxLevel": "10"
   },
   {
-    "Name": "Plains",
-    "Credits": "Copper",
-    "MinLevel": "1",
-    "MaxLevel": "20"
-  },
-  {
     "Name": "Sewers",
     "Credits": "Diku",
     "MinLevel": "5",
