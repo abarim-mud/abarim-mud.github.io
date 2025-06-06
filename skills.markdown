@@ -2,115 +2,32 @@
 layout: page
 title: Skills
 ---
-
 ### Warrior Skills
-#### Melee
-Melee is the skill to handle weapons. Training it requires hard work and discipline. Thus the advancement of the skill grants some natural armor.
 
-Skill Advancement Cost: 2
-
-Level|Gains
------|-----
-Novice|+2 Armor Class. +10 Attack Bonus. +1 Weapon Attack Per Round. 'Kick' ability
-Apprentice|+2 Armor Class. +10 Attack Bonus
-Adept|+2 Armor Class. +10 Attack Bonus
-Expert|+2 Armor Class. +10 Attack Bonus. +1 Weapon Attack Per Round. Prime warriors gain ability 'Parry'
-Master|+2 Armor Class. +10 Attack Bonus. Prime warriors gain ability 'Riposte'
-
-#### Survival
-Survival is the skill to survive in the wild.
-
-Skill Advancement Cost: 1
-
-Level|Gains
------|-----
-Novice|'Hunt' ability
-Apprentice|
-Adept|
-Expert|
-Master|
+Levels|Melee (2)|Survival (1)|Strength (2)
+------|---------|------------|------------
+Novice|Kick<br>+1&nbsp;WeaponAttacksCount<br>+10&nbsp;WeaponAttackBonus<br>+20&nbsp;WeaponAttackBonus&nbsp;(prime)|Hunt|+10&nbsp;AttackBonus
+Apprentice|+10&nbsp;WeaponAttackBonus||+1&nbsp;Damage
+Adept|+1&nbsp;WeaponAttacksCount<br>+10&nbsp;WeaponAttackBonus||+10&nbsp;AttackBonus
+Expert|+10&nbsp;WeaponAttackBonus||+1&nbsp;Damage
+Master|+10&nbsp;WeaponAttackBonus||+10&nbsp;AttackBonus<br>+1&nbsp;Damage
 
 ### Rogue Skills
 
-#### Sneaking
-Sneaking is the skill to silently move through shadows and backstab enemies.
+Levels|Backstab (1)|Dexterity (2)
+------|------------|-------------
+Novice|Backstab<br>+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier<br>+1&nbsp;BackstabMultiplier&nbsp;(prime)|+8&nbsp;Armor<br>+10&nbsp;Moves<br>+1&nbsp;MovesRegenPercentage
+Apprentice|+2&nbsp;BackstabMultiplier|+8&nbsp;Armor<br>+10&nbsp;Moves<br>+1&nbsp;MovesRegenPercentage
+Adept|Circlestab<br>+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier|+8&nbsp;Armor<br>+10&nbsp;Moves<br>+1&nbsp;MovesRegenPercentage
+Expert|+2&nbsp;BackstabMultiplier|+8&nbsp;Armor<br>+10&nbsp;Moves<br>+1&nbsp;MovesRegenPercentage
+Master|+2&nbsp;BackstabMultiplier|+8&nbsp;Armor<br>+10&nbsp;Moves<br>+1&nbsp;MovesRegenPercentage
 
-Skill Advancement Cost: 2
+### Monk Skills
 
-Level|Gains
------|-----
-Novice|'Backstab' and 'Sneak' abilities. Initial Backstab Multiplier is 2(3 for prime thieves)
-Apprentice|+2 Backstab Multiplier. Prime thieves gain ability 'Circlestab'
-Adept|+2 Backstab Multiplier. 2nd stab
-Expert|+2 Backstab Multiplier
-Master|+2 Backstab Multiplier
-
-#### Speech
-Speech is the skill to haggle with greedy traders.
-Also the skill grants Warcry ability, which inspires yourself and allies in the battle.
-
-Skill Advancement Cost: 1
-
-Level|Gains
------|-----
-Novice|+10% better prices. Grants Warcry ability that gives +1 damage/+10 Attack Bonus for 1 minute
-Apprentice|+10% better prices. Warcry +1 damage/+10 Attack Bonus
-Adept|+10% better prices. Warcry +1 damage/+10 Attack Bonus
-Expert|+10% better prices. Warcry +1 damage/+10 Attack Bonus
-Master|+10% better prices. Warcry +1 damage/+10 Attack Bonus
-
-#### Lockpicking
-Lockpicking is the skill to pick locks(capt. obvious) and disarm traps.
-
-Skill Advancement Cost: 1
-
-Level|Gains
------|-----
-Novice|Allows to deal with Novice locks(1 lockpick)
-Apprentice|Allows to deal with Apprentice locks(3 lockpicks)
-Adept|Allows to deal with Adept locks(5 lockpicks)
-Expert|Allows to deal with Expert locks(7 lockpicks)
-Master|Allows to deal with Master locks(10 lockpicks)
-
-### Cleric Skills
-
-#### Restoration
-Restoration is the school of magic that provides healing spells and spells to fight with undead.
-
-Skill Advancement Cost: 2
-
-Level|Gains
------|-----
-Novice|Spell 'cure light wounds'
-Apprentice|Spells 'cure serious wounds', 'holy wrath'
-Adept|Spells 'heal', 'divine shield'(prime Cleric only)
-Expert|Spell 'greater heal'
-Master|Spell 'restoration'
-
-### Mage Skills
-
-#### Destruction
-Restoration is the school of magic that provides spells inflicting the elemtal damage
-
-Skill Advancement Cost: 2
-
-Level|Gains
------|-----
-Novice|
-Apprentice|
-Adept|
-Expert|
-Master|
-
-#### Alteration
-Alteration is the school of magic that provides spells improving various parameters
-
-Skill Advancement Cost: 2
-
-Level|Gains
------|-----
-Novice|
-Apprentice|
-Adept|
-Expert|
-Master|
+Levels|Martial Arts (2)|Deathtouch (1)|Constitution (2)
+------|----------------|--------------|----------------
+Novice|Kick<br>+2&nbsp;MartialArtsMinimumDamage<br>+10&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+10&nbsp;MartialArtsAttackBonus<br>+2&nbsp;DamageReduction&nbsp;(prime)<br>+20&nbsp;MartialArtsAttackBonus&nbsp;(prime)|Deathtouch<br>+2&nbsp;DeathtouchMultiplier<br>+1&nbsp;DeathtouchMultiplier&nbsp;(prime)|+20&nbsp;Hitpoints<br>+1&nbsp;HpRegenPercentage
+Apprentice|+1&nbsp;DamageReduction<br>+10&nbsp;MartialArtsAttackBonus|+2&nbsp;DeathtouchMultiplier|+20&nbsp;Hitpoints<br>+1&nbsp;HpRegenPercentage
+Adept|+2&nbsp;MartialArtsMinimumDamage<br>+14&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+1&nbsp;DamageReduction<br>+10&nbsp;MartialArtsAttackBonus|+2&nbsp;DeathtouchMultiplier|+20&nbsp;Hitpoints<br>+1&nbsp;HpRegenPercentage
+Expert|+1&nbsp;DamageReduction<br>+10&nbsp;MartialArtsAttackBonus|+2&nbsp;DeathtouchMultiplier|+20&nbsp;Hitpoints<br>+1&nbsp;HpRegenPercentage
+Master|+3&nbsp;MartialArtsMinimumDamage<br>+18&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+1&nbsp;DamageReduction<br>+10&nbsp;MartialArtsAttackBonus|+2&nbsp;DeathtouchMultiplier|+20&nbsp;Hitpoints<br>+1&nbsp;HpRegenPercentage
