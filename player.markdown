@@ -28,6 +28,8 @@ You could always return to that room using command `recall`, which costs 35 mana
 
 Very important command is `score`. It shows the info about your character.
 
+Finally `quit` command lets you log off from the game.
+
 ## Combat
 
 AbarimMUD is hack'n'slash game: you kill stuff for the experience and watch the numbers grow.
