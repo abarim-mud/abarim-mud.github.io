@@ -123,8 +123,10 @@ There are four types of enchantment stones: tiny, small, average and large.
 
 Every equipment item has enchantment tier, which specifies what type of the enchantment stones is required.
 
-See [equipment]({% link equipment.markdown %}) for the list of items' enchantment tiers.
+See [equipment]({% link equipment.markdown %}) for the list of items' enchantment tiers (column named 'E').
 
 If an item has empty enchantment tier, then it couldn't be enchanted.
+
+The enchantment is possible only at 'Wendy's Shop of Magic'(see Astoria map). The relevant command is `enchant`.
 
 
