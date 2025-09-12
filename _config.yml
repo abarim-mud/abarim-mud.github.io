@@ -20,7 +20,7 @@
 
 title: Abarim MUD
 description: >- # this means to ignore newlines until "baseurl:"
-  C# Diku Based MUD Engine in the very early stage(basically there's no engine yet).
+  C# MUD Engine in the very early stage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  abarim-mud
