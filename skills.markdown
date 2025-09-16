@@ -44,8 +44,8 @@ title: Skills
 #### Backstab
 
 1|Backstab<br>+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier<br>+1&nbsp;BackstabMultiplier (prime)
-2|+2&nbsp;BackstabMultiplier
-3|Circlestab<br>+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier
+2|Circlestab<br>+2&nbsp;BackstabMultiplier
+3|+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier
 4|+2&nbsp;BackstabMultiplier
 5|+2&nbsp;BackstabMultiplier
 
@@ -68,15 +68,15 @@ title: Skills
 #### Martial arts
 
 1|Kick<br>+2&nbsp;MartialArtsMinimumDamage<br>+10&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+20&nbsp;MartialArtsAttackBonus<br>+2&nbsp;DamageReduction (prime)<br>+20&nbsp;MartialArtsAttackBonus (prime)
-2|+20&nbsp;MartialArtsAttackBonus
-3|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
-4|+1&nbsp;MartialArtsAttacksCount<br>+20&nbsp;MartialArtsAttackBonus
-5|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus<br>+2&nbsp;MartialArtsMinimumDamage<br>+14&nbsp;MartialArtsMaximumDamage
-6|+20&nbsp;MartialArtsAttackBonus
-7|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
-8|+1&nbsp;MartialArtsAttacksCount<br>+20&nbsp;MartialArtsAttackBonus
-9|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
-10|+3&nbsp;MartialArtsMinimumDamage<br>+18&nbsp;MartialArtsMaximumDamage<br>+20&nbsp;MartialArtsAttackBonus
+2|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
+3|+20&nbsp;MartialArtsAttackBonus
+4|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
+5|+20&nbsp;MartialArtsAttackBonus<br>+2&nbsp;MartialArtsMinimumDamage<br>+14&nbsp;MartialArtsMaximumDamage
+6|+1&nbsp;MartialArtsAttacksCount<br>+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
+7|+20&nbsp;MartialArtsAttackBonus
+8|+1&nbsp;DamageReduction<br>+20&nbsp;MartialArtsAttackBonus
+9|+1&nbsp;MartialArtsAttacksCount<br>+20&nbsp;MartialArtsAttackBonus
+10|+1&nbsp;DamageReduction<br>+3&nbsp;MartialArtsMinimumDamage<br>+18&nbsp;MartialArtsMaximumDamage<br>+20&nbsp;MartialArtsAttackBonus
 
 #### Deathtouch
 
