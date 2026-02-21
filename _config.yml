@@ -53,5 +53,6 @@ plugins:
 header_pages:
   - index.markdown
   - player.markdown
+  - admin.markdown
   - library.markdown
   - cartography.markdown
