@@ -29,3 +29,40 @@ Almost all types of the game content could be edited using following commands:
 * create
 * set
 * spawn
+
+### Command Usage
+
+Executing every such command - with fever arguments than required - would reveal its usage.
+
+I.e. executing `set` would result in
+
+`Usage: set item|character|mobile|area|room [_id_] _propertyName_ _params_`
+
+Now executing `set mobile` would result in
+
+`Usage: set mobile _id_ id|keywords|short|long|description|level|flags _params_`
+
+Finally executing `set item citizen flags` would result in
+
+`Usage: set mobile _id_ flags sentinel|nowander|bash|berserk|dodge|kick|parry`
+
+And only executing `set item citizen flags sentinel bash kick` would actually change that mobile flags.
+
+### Id
+
+`_id_` is not required when editing a room or an area. As in that case the room/area is edited where the Builder is located.
+
+## Areas & Rooms
+
+Following command creates a new area: `create area myArea`
+It would create an area with id `myArea` with single room and transfer the Builder there.
+
+Then `set area` could be used to set the various area properties (i.e. `set area name My Area`).
+
+`create room` creates a new room within the area - the Builder is located - and transfers the Builder there.
+
+Then `set room` could be used to set the various room properties (i.e. `set room name Horizontal Street`).
+
+`roomlink` would create a two-way connection between the room - the Builder is located - and specified one.
+
+Example usage: `roomlink east 5`
