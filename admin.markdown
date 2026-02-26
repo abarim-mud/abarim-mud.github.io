@@ -23,7 +23,27 @@ Administrator can do everything Builder can do. Also promote Players to Builders
 ### Owner
 The game can have only one Owner.
 
+## Json
+
+All of the game data is stored in json: [Data](https://github.com/abarim-mud/AbarimMUD/tree/master/Data)
+
+Hence it's possible to edit the game data using any text editor. Though the server restart is required if the data was edited such way.
+
 ## Common Builder Commands
+
+### Commands not related to the building
+
+Name|Description|Example
+----|-----------|-------
+areas|show list of areas|
+force _creature_ _action_|force a creature to do action|force citizen say hi
+goto _roomId_|move to room|goto 10
+peace|stops the fight in the current room|
+respawnarea|respawn the current area|
+restore _creature_|fully restores the creature|restore citizen
+slain _creature_|slains the creature and awards the experience|slain citizen
+
+### Commands related to the building
 
 Almost all types of the game content could be edited using following commands:
 * create
@@ -52,10 +72,11 @@ And only executing `set item citizen flags sentinel bash kick` would actually ch
 
 `_id_` is not required when editing a room or an area. As in that case the room/area is edited where the Builder is located.
 
-## Areas & Rooms
+### Areas & Rooms
 
-Following command creates a new area: `create area myArea`
-It would create an area with id `myArea` with single room and transfer the Builder there.
+Following command creates a new area: `create area _id_` (i.e. `create area myArea`)
+
+It would create an area with id `_id_` with single room and transfer the Builder there.
 
 Then `set area` could be used to set the various area properties (i.e. `set area name My Area`).
 
@@ -66,3 +87,9 @@ Then `set room` could be used to set the various room properties (i.e. `set room
 `roomlink` would create a two-way connection between the room - the Builder is located - and specified one.
 
 Example usage: `roomlink east 5`
+
+### Mobiles
+
+Following command create a new mobile: `create mobile _id_` (i.e. `create mobile citizen`)
+
+Then `set mobile _id_` could be used to set the various mobile properties (i.e. `set mobile citizen keywords citizen male`)
