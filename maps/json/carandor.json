@@ -42,7 +42,9 @@
       },
       {
         "Id": 4,
+        "FrameColor": "brown",
         "Name": "Smithy #4",
+        "Color": "brown",
         "Connections": {
           "South": 2
         },
@@ -55,7 +57,9 @@
       },
       {
         "Id": 5,
+        "FrameColor": "brown",
         "Name": "Alchemist Store #5",
+        "Color": "brown",
         "Connections": {
           "North": 2
         },
@@ -93,7 +97,9 @@
       },
       {
         "Id": 9,
+        "FrameColor": "brown",
         "Name": "Magic Shop #9",
+        "Color": "brown",
         "Connections": {
           "South": 6
         },
@@ -235,7 +241,9 @@
       },
       {
         "Id": 26,
+        "FrameColor": "brown",
         "Name": "Warriors Guild #26",
+        "Color": "brown",
         "Connections": {
           "South": 25
         },
@@ -256,7 +264,9 @@
       },
       {
         "Id": 28,
+        "FrameColor": "brown",
         "Name": "Rogue Guild #28",
+        "Color": "brown",
         "Connections": {
           "South": 27
         },
@@ -277,7 +287,9 @@
       },
       {
         "Id": 30,
+        "FrameColor": "brown",
         "Name": "Monks Guild #30",
+        "Color": "brown",
         "Connections": {
           "South": 29
         },
