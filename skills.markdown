@@ -39,7 +39,7 @@ title: Skills
 2|+2&nbsp;BackstabMultiplier
 3|+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier
 4|+2&nbsp;BackstabMultiplier<br>+1&nbsp;CirclestabMultiplier
-5|+2&nbsp;BackstabMultiplier<br>+1&nbsp;CirclestabMultiplier
+5|+2&nbsp;BackstabMultiplier
 
 #### Dexterity
 
