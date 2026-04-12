@@ -1,26 +1,21 @@
 [
   {
+    "Id": "arachnos",
     "Name": "Arachnos",
     "Credits": "Mahatma",
     "MinLevel": "5",
     "MaxLevel": "20"
   },
   {
-    "Name": "Astoria",
-    "Credits": "Astoria",
-    "MinLevel": "ALL",
-    "MaxLevel": "ALL"
+    "Id": "carandor",
+    "Name": "Carandor",
+    "MinLevel": "10"
   },
   {
+    "Id": "haonDor",
     "Name": "Haon Dor",
     "Credits": "Diku",
     "MinLevel": "5",
     "MaxLevel": "10"
-  },
-  {
-    "Name": "Sewers",
-    "Credits": "Diku",
-    "MinLevel": "5",
-    "MaxLevel": "30"
   }
 ]

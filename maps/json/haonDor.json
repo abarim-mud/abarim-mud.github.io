@@ -12,7 +12,7 @@
         "Connections": {
           "North": 51565,
           "West": 51401,
-          "East": 19014
+          "East": 10
         }
       },
       {
@@ -1073,7 +1073,6 @@
         "Id": 51581,
         "Name": "Tigris River #51581",
         "Connections": {
-          "East": 19121,
           "West": 51582
         }
       },
@@ -1221,12 +1220,12 @@
         ]
       },
       {
-        "Id": 19014,
+        "Id": 10,
         "FrameColor": "blue",
-        "Name": "To Astoria #19014",
+        "Name": "To Carandor #10",
         "Color": "blue",
         "Connections": {
-          "East": 19013,
+          "East": 8,
           "West": 51400
         }
       },
@@ -1238,16 +1237,6 @@
         "Connections": {
           "North": 6203,
           "South": 51533
-        }
-      },
-      {
-        "Id": 19121,
-        "FrameColor": "blue",
-        "Name": "To Astoria #19121",
-        "Color": "blue",
-        "Connections": {
-          "East": 19120,
-          "West": 51581
         }
       }
     ]

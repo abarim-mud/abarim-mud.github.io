@@ -253,7 +253,7 @@
     "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
-    "Stats": "1-8",
+    "Stats": "2-8",
     "Affects": [
       "\u002B2\u0026nbsp;WeaponDamage"
     ],
@@ -268,7 +268,8 @@
     "Stats": "1-6",
     "Affects": [
       "Stab",
-      "\u002B10\u0026nbsp;WeaponAttackBonus"
+      "\u002B10\u0026nbsp;WeaponAttackBonus",
+      "\u002B1\u0026nbsp;Damage"
     ],
     "ForgeComponents": []
   },
@@ -278,7 +279,7 @@
     "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
-    "Stats": "1-8",
+    "Stats": "2-8",
     "Affects": [
       "\u002B20\u0026nbsp;WeaponAttackBonus"
     ],
@@ -290,7 +291,7 @@
     "Material": "Iron",
     "Price": "800",
     "EnchantmentTier": "1",
-    "Stats": "1-8",
+    "Stats": "2-8",
     "Affects": [
       "\u002B10\u0026nbsp;WeaponAttackBonus",
       "\u002B1\u0026nbsp;WeaponDamage"

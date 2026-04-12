@@ -30,7 +30,7 @@ custom_js:
     <tbody>
 		{% for area in site.data.areas %}
 			<tr>
-				<td><a href="/maps/png/{{ area.Name }}.png">{{ area.Name }}</a></td>
+				<td><a href="/maps/png/{{ area.Id }}.png">{{ area.Name }}</a></td>
 				<td>{{ area.Credits }}</td>
 				<td>{{ area.MinLevel }}</td>
 				<td>{{ area.MaxLevel }}</td>
