@@ -11,7 +11,8 @@
         "Connections": {
           "West": 1,
           "North": 11,
-          "East": 18
+          "East": 18,
+          "South": 31
         }
       },
       {
@@ -296,6 +297,45 @@
         "Contents": [
           {
             "Text": "the monk guildmaster #5",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 31,
+        "Name": "Vertical Street #31",
+        "Connections": {
+          "North": 0,
+          "South": 32
+        }
+      },
+      {
+        "Id": 32,
+        "Name": "Vertical Street #32",
+        "Connections": {
+          "North": 31,
+          "West": 33
+        }
+      },
+      {
+        "Id": 33,
+        "Name": "Outside Clerics Guild #33",
+        "Connections": {
+          "East": 32,
+          "North": 34
+        }
+      },
+      {
+        "Id": 34,
+        "FrameColor": "brown",
+        "Name": "Clerics Guild #34",
+        "Color": "brown",
+        "Connections": {
+          "South": 33
+        },
+        "Contents": [
+          {
+            "Text": "the cleric guildmaster #6",
             "Color": "green"
           }
         ]

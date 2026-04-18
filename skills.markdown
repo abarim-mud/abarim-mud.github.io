@@ -6,16 +6,16 @@ title: Skills
 
 #### Melee
 
-1|Kick<br>+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus
-2|+15&nbsp;WeaponAttackBonus
-3|+15&nbsp;WeaponAttackBonus
-4|+15&nbsp;WeaponAttackBonus
-5|+15&nbsp;WeaponAttackBonus
-6|+15&nbsp;WeaponAttackBonus
-7|+15&nbsp;WeaponAttackBonus
-8|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus
-9|+15&nbsp;WeaponAttackBonus
-10|+15&nbsp;WeaponAttackBonus
+1|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus|kick: 2
+2|+15&nbsp;WeaponAttackBonus|kick: 2
+3|+15&nbsp;WeaponAttackBonus|kick: 2
+4|+15&nbsp;WeaponAttackBonus|kick: 2
+5|+15&nbsp;WeaponAttackBonus|kick: 2
+6|+15&nbsp;WeaponAttackBonus|kick: 2
+7|+15&nbsp;WeaponAttackBonus|kick: 2
+8|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus|kick: 2
+9|+15&nbsp;WeaponAttackBonus|kick: 2
+10|+15&nbsp;WeaponAttackBonus|kick: 2
 
 #### Strength
 
@@ -31,15 +31,44 @@ title: Skills
 10|+1&nbsp;Damage
 
 
+### Cleric Skills
+
+#### Restoration
+
+1|cure light wounds
+2|accuracy: 10
+3|cure serious wounds
+4|accuracy: 5
+5|heal
+6|accuracy: 5
+7|greater heal
+8|accuracy: 5
+9|restoration
+10|accuracy: 5
+
+#### Wisdom
+
+1|+2&nbsp;HealBonus
+2|+1&nbsp;ManaRegenPercentage
+3|+2&nbsp;HealBonus
+4|+1&nbsp;ManaRegenPercentage
+5|+2&nbsp;HealBonus
+6|+1&nbsp;ManaRegenPercentage
+7|+2&nbsp;HealBonus
+8|+1&nbsp;ManaRegenPercentage
+9|+2&nbsp;HealBonus
+10|+1&nbsp;ManaRegenPercentage
+
+
 ### Rogue Skills
 
 #### Backstab
 
-1|Backstab<br>Circlestab<br>+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier<br>+2&nbsp;CirclestabMultiplier
-2|+2&nbsp;BackstabMultiplier
-3|+1&nbsp;BackstabCount<br>+2&nbsp;BackstabMultiplier
-4|+2&nbsp;BackstabMultiplier<br>+1&nbsp;CirclestabMultiplier
-5|+2&nbsp;BackstabMultiplier
+1|+1&nbsp;BackstabCount|backstab: 2<br>circlestab: 2
+2||backstab: 2
+3|+1&nbsp;BackstabCount|backstab: 2
+4||backstab: 2<br>circlestab: 1
+5||backstab: 2
 
 #### Dexterity
 
@@ -59,7 +88,7 @@ title: Skills
 
 #### Martial arts
 
-1|Kick<br>+2&nbsp;MartialArtsMinimumDamage<br>+10&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+15&nbsp;MartialArtsAttackBonus
+1|+2&nbsp;MartialArtsMinimumDamage<br>+10&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+15&nbsp;MartialArtsAttackBonus
 2|+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
 3|+15&nbsp;MartialArtsAttackBonus
 4|+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
@@ -72,11 +101,11 @@ title: Skills
 
 #### Deathtouch
 
-1|Deathtouch<br>+2&nbsp;DeathtouchMultiplier
-2|+2&nbsp;DeathtouchMultiplier
-3|+2&nbsp;DeathtouchMultiplier
-4|+2&nbsp;DeathtouchMultiplier
-5|+2&nbsp;DeathtouchMultiplier
+1|deathtouch: 2
+2|deathtouch: 2
+3|deathtouch: 2
+4|deathtouch: 2
+5|deathtouch: 2
 
 #### Constitution
 
