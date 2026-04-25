@@ -9,7 +9,7 @@ This guide is aimed towards the experienced MUD players in order to help them ge
 
 ## Character Creation
 
-AbarimMUD has 3 RPG classes for now: Warrior, Rogue and Monk.
+AbarimMUD has 5 RPG classes for now: Warrior, Rogue, Monk, Cleric and Mage.
 
 A player chooses one of it as their primary class when creating the character.
 The class and level would determine the player hitpoints/mana/moves/etc.
@@ -20,9 +20,9 @@ Also there are abilities that are exclusive only for specific classes (aka prima
 AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
 
 Check the [cartography]({% link cartography.markdown %}) section.
-Particularly check the map of Astoria. All important rooms are marked with the special color.
+Particularly check the map of Carandor. All important rooms are marked with the special color.
 
-You'll start in that area at the room "Temple Altar" (#19087).
+You'll start in that area at the room "Fountain" (#0).
 
 You could always return to that room using command `recall`, which costs 35 mana.
 
@@ -30,11 +30,15 @@ Very important command is `score`. It shows the info about your character.
 
 Finally `quit` command lets you log off from the game.
 
+Important communication commands:
+* `gossip _message_` - for the communication with all
+* `tell _character_ _message_` - for the communication with the specific player
+
 ## Combat
 
 AbarimMUD is hack'n'slash game: you kill stuff for the experience and watch the numbers grow.
 
-So in order to start this activity go to area 'Haon Dor'(s, 8w). All mobiles aren't aggressive there. Hence it's safe to walk around.
+So in order to start this activity go to area 'Haon Dor'(8w). All mobiles aren't aggressive there. Hence it's safe to walk around.
 
 You could evaluate a potential fight with mobile using command `consider _mobileName`. If it seems ok, then you might initiate a fight.
 
@@ -43,6 +47,7 @@ However if you're playing a rogue, then it makes sense to start the fight with b
 
 There's very useful utility command `fightskill`. It allows you to specify attack action that will be done every fight round.
 I.e. if you do `fightskill kick`, then you'll kick an enemy every round.
+Or if you do `fightskill cast 'magic missile'`, then you'll cast the magic missile.
 You could turn it off using command `fightskill off`
 
 If you're playing a rogue, then there's another useful command `stabweapon`. It allows you to assign a stab weapon that 
@@ -70,8 +75,9 @@ See [consumables]({% link consumables.markdown %}) for the list of potions.
 ## Level Ups and Skills
 
 AbarimMUD is skill-base game. There are many skills. 
-Each skill can have 5 levels of the advancement: Novice, Apprentice, Adept, Expert and Master.
+Each skill can have 5 or 10 levels of the advancement.
 Gaining/advancing skills grants various parameters and abilities.
+Use `skills` command to see your skills.
 
 Every level a player receives 1 skill point. Also additional skill point every 10th level.
 Advancing different skills cost different amount of skill points. Also it costs gold.
@@ -82,10 +88,12 @@ Every skill belongs to the specified class. I.e. Melee skill belongs to Warrior.
 Advancing a skill occurs by going to the guildmaster of the corresponding class and executing command `train`.
 You'll be instructed on how to do the skill advancement.
 
-There are level constraints on the skills' advancement: you can't advance a skill to Apprentice/Adept/Expert/Master 
-unless you reached levels 5/10/15/20 if the skill belongs to your class, or unless you reached levels 10/20/30/40 if it doesn't.
+The [skills](skills) page contains the full list of the skills.
 
-The [skills]({% link skills.markdown %}) page contains the full list of the skills.
+## Abilities
+
+Abilities are usable powers that are gained on specific skill levels.
+Use `abilities` command to see your abilities.
 
 ## Shops
 
@@ -129,6 +137,4 @@ See [equipment]({% link equipment.markdown %}) for the list of items' enchantmen
 
 If an item has empty enchantment tier, then it couldn't be enchanted.
 
-The enchantment is possible only at 'Wendy's Shop of Magic'(see Astoria map). The relevant command is `enchant`.
-
-
+The enchantment is possible only at 'Magic Shop'(see Carandor map). The relevant command is `enchant`.

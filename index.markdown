@@ -3,8 +3,30 @@ layout: page
 title: About
 ---
 
-AbarimMUD is C# MUD Engine in the very early stage.
+AbarimMUD is modern hack and slash MUD engine made in C#.
 
 The project is open source: <https://github.com/abarim-mud/AbarimMUD>
 
 Demo version is live at: **telnet abarim-mud.ru 6101**
+
+Make sure to check the [Player's Guide](player) if you to give it a try.
+
+### What was done
+
+* Basic gameplay(accounts/characters, areas, rooms, movements, mobiles, communication, etc)
+* [Combat](combat)
+* The progression system where the player gains levels and chooses what skills to train
+* Crafting/enchantment system where the player makes the equipment according to their needs
+* Basic OLC
+
+### Essential things to do(before the alpha release)
+
+* NPC AI(wandering/aggressive/etc behavior types)
+* Socials
+* More crafting materials and enchanments
+* Develop and implement fair player death mechanic
+
+### Other things to do(will be done eventually)
+
+* Quest Engine
+* More classes: Bard, Necromancer, Druid

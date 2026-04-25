@@ -31,35 +31,6 @@ title: Skills
 10|+1&nbsp;Damage
 
 
-### Cleric Skills
-
-#### Restoration
-
-1|cure light wounds
-2|accuracy: 10
-3|cure serious wounds
-4|accuracy: 5
-5|heal
-6|accuracy: 5
-7|greater heal
-8|accuracy: 5
-9|restoration
-10|accuracy: 5
-
-#### Wisdom
-
-1|+2&nbsp;HealBonus
-2|+1&nbsp;ManaRegenPercentage
-3|+2&nbsp;HealBonus
-4|+1&nbsp;ManaRegenPercentage
-5|+2&nbsp;HealBonus
-6|+1&nbsp;ManaRegenPercentage
-7|+2&nbsp;HealBonus
-8|+1&nbsp;ManaRegenPercentage
-9|+2&nbsp;HealBonus
-10|+1&nbsp;ManaRegenPercentage
-
-
 ### Rogue Skills
 
 #### Backstab
@@ -119,4 +90,62 @@ title: Skills
 8|+1&nbsp;HpRegenPercentage
 9|+20&nbsp;Hitpoints
 10|+1&nbsp;HpRegenPercentage
+
+
+### Cleric Skills
+
+#### Restoration
+
+1|cure light wounds
+2|accuracy: 10
+3|cure serious wounds
+4|accuracy: 5
+5|heal
+6|accuracy: 5
+7|greater heal
+8|accuracy: 5
+9|restoration
+10|accuracy: 5
+
+#### Wisdom
+
+1|+2&nbsp;HealBonus
+2|+1&nbsp;ManaRegenPercentage
+3|+2&nbsp;HealBonus
+4|+1&nbsp;ManaRegenPercentage
+5|+2&nbsp;HealBonus
+6|+1&nbsp;ManaRegenPercentage
+7|+2&nbsp;HealBonus
+8|+1&nbsp;ManaRegenPercentage
+9|+2&nbsp;HealBonus
+10|+1&nbsp;ManaRegenPercentage
+
+
+### Mage Skills
+
+#### Wizardry
+
+1|magic missile
+2|armor: 10
+3|
+4|armor: 5
+5|
+6|armor: 5
+7|
+8|armor: 5
+9|
+10|armor: 5
+
+#### Intelligence
+
+1|+20&nbsp;Mana
+2|+2&nbsp;SpellBonus
+3|+20&nbsp;Mana
+4|+2&nbsp;SpellBonus
+5|+20&nbsp;Mana
+6|+2&nbsp;SpellBonus
+7|+20&nbsp;Mana
+8|+2&nbsp;SpellBonus
+9|+20&nbsp;Mana
+10|+2&nbsp;SpellBonus
 
