@@ -19,16 +19,16 @@ title: Skills
 
 #### Strength
 
-1|+10&nbsp;AttackBonus
-2|+1&nbsp;Damage
-3|+10&nbsp;AttackBonus
-4|+1&nbsp;Damage
-5|+10&nbsp;AttackBonus
-6|+1&nbsp;Damage
-7|+10&nbsp;AttackBonus
-8|+1&nbsp;Damage
-9|+10&nbsp;AttackBonus
-10|+1&nbsp;Damage
+1|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
+2|+1&nbsp;Damage<br>+1&nbsp;Armor
+3|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
+4|+1&nbsp;Damage<br>+1&nbsp;Armor
+5|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
+6|+1&nbsp;Damage<br>+1&nbsp;Armor
+7|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
+8|+1&nbsp;Damage<br>+1&nbsp;Armor
+9|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
+10|+1&nbsp;Damage<br>+1&nbsp;Armor
 
 
 ### Cleric Skills
