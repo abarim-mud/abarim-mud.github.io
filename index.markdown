@@ -9,7 +9,7 @@ The project is open source: <https://github.com/abarim-mud/AbarimMUD>
 
 Demo version is live at: **telnet abarim-mud.ru 6101**
 
-Make sure to check the [Player's Guide](player) if you to give it a try.
+Make sure to check the [Player's Guide](player) if you want to give it a try.
 
 ### What was done
 
