@@ -101,11 +101,11 @@ title: Skills
 
 #### Deathtouch
 
-1|deathtouch: 2
+1|deathtouch: 2<br>strike: 1
 2|deathtouch: 2
-3|deathtouch: 2
+3|deathtouch: 2<br>strike: 1
 4|deathtouch: 2
-5|deathtouch: 2
+5|deathtouch: 2<br>strike: 1
 
 #### Constitution
 

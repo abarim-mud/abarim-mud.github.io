@@ -314,7 +314,8 @@
         "Name": "Vertical Street #32",
         "Connections": {
           "North": 31,
-          "West": 33
+          "West": 33,
+          "East": 35
         }
       },
       {
@@ -336,6 +337,29 @@
         "Contents": [
           {
             "Text": "the cleric guildmaster #6",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 35,
+        "Name": "Outside Mages Guild #35",
+        "Connections": {
+          "West": 32,
+          "North": 36
+        }
+      },
+      {
+        "Id": 36,
+        "FrameColor": "brown",
+        "Name": "Mages Guild #36",
+        "Color": "brown",
+        "Connections": {
+          "South": 35
+        },
+        "Contents": [
+          {
+            "Text": "the mage guildmaster #7",
             "Color": "green"
           }
         ]
