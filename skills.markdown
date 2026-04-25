@@ -6,29 +6,29 @@ title: Skills
 
 #### Melee
 
-1|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus|kick: 2
-2|+15&nbsp;WeaponAttackBonus|kick: 2
-3|+15&nbsp;WeaponAttackBonus|kick: 2
-4|+15&nbsp;WeaponAttackBonus|kick: 2
-5|+15&nbsp;WeaponAttackBonus|kick: 2
-6|+15&nbsp;WeaponAttackBonus|kick: 2
-7|+15&nbsp;WeaponAttackBonus|kick: 2
-8|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus|kick: 2
-9|+15&nbsp;WeaponAttackBonus|kick: 2
-10|+15&nbsp;WeaponAttackBonus|kick: 2
+1|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+2|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+3|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+4|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+5|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+6|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+7|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+8|+1&nbsp;WeaponAttacksCount<br>+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+9|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
+10|+15&nbsp;WeaponAttackBonus<br>+1&nbsp;Armor|kick: 2
 
 #### Strength
 
-1|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
-2|+1&nbsp;Damage<br>+1&nbsp;Armor
-3|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
-4|+1&nbsp;Damage<br>+1&nbsp;Armor
-5|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
-6|+1&nbsp;Damage<br>+1&nbsp;Armor
-7|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
-8|+1&nbsp;Damage<br>+1&nbsp;Armor
-9|+10&nbsp;AttackBonus<br>+1&nbsp;Armor
-10|+1&nbsp;Damage<br>+1&nbsp;Armor
+1|+10&nbsp;AttackBonus
+2|+1&nbsp;Damage
+3|+10&nbsp;AttackBonus
+4|+1&nbsp;Damage
+5|+10&nbsp;AttackBonus
+6|+1&nbsp;Damage
+7|+10&nbsp;AttackBonus
+8|+1&nbsp;Damage
+9|+10&nbsp;AttackBonus
+10|+1&nbsp;Damage
 
 
 ### Cleric Skills
