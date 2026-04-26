@@ -25,8 +25,10 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * Socials
 * More crafting materials and enchanments
 * Develop and implement fair player death mechanic
+* Way more spells
 
 ### Other things to do(will be done eventually)
 
 * Quest Engine
 * More classes: Bard, Necromancer, Druid
+* Various MUD Protocols(MXP, GMCP, etc)
