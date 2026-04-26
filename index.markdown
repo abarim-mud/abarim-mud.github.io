@@ -23,7 +23,7 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 
 * NPC AI(wandering/aggressive/etc behavior types)
 * Socials
-* More crafting materials and enchanments
+* More crafting materials and enchantments
 * Develop and implement fair player death mechanic
 * Way more spells
 * Lockpicking, chests, doors, etc
