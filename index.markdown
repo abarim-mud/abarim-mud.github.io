@@ -33,9 +33,11 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 
 ### Other things to do(will be done eventually)
 
-* Quest Engine
+* Quest engine
 * More classes: Bard, Necromancer, Druid
 * Various MUD Protocols(MXP, GMCP, etc)
 * Traps?
 * Eqsets(commands to instantly change the equipment)
 * Sneaking
+* Web Site integration
+* Discord integraion
