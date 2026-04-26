@@ -39,5 +39,6 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * Traps?
 * Eqsets(commands to instantly change the equipment)
 * Sneaking
+* Grouping
 * Web Site integration
 * Discord integraion
