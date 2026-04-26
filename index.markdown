@@ -27,8 +27,9 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * Develop and implement fair player death mechanic
 * Way more spells
 * Lockpicking, chests, doors, etc
-* Monster special attacks, such as dragon breaths
-* Special monster flags such as undead or ethereal
+* Allow mobiles to use physical abilities such as kick and cast spells
+* Mobile special attacks, such as dragon breaths
+* Special mobile flags such as undead or ethereal
 
 ### Other things to do(will be done eventually)
 
