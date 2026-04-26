@@ -26,6 +26,9 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * More crafting materials and enchanments
 * Develop and implement fair player death mechanic
 * Way more spells
+* Lockpicking, chests, doors, etc
+* Monster special attacks, such as dragon breaths
+* Special monster flags such as undead or ethereal
 
 ### Other things to do(will be done eventually)
 
