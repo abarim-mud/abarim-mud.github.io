@@ -26,7 +26,7 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * More crafting materials, forges and enchantments
 * Develop and implement fair player death mechanic
 * Way more spells
-* Way more potions(including "a potion of oblivion" that resets distributed skill points)
+* Way more potions(including "a potion of oblivion" that resets the distributed skill points)
 * Scrolls
 * Lockpicking, chests, doors, etc
 * Allow mobiles to use physical abilities such as kick and cast spells
