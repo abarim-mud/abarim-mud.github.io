@@ -23,9 +23,10 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 
 * NPC AI(wandering/aggressive/etc behavior types)
 * Socials
-* More crafting materials and enchantments
+* More crafting materials, forges and enchantments
 * Develop and implement fair player death mechanic
 * Way more spells
+* Way more potions(including "a potion of oblivion" resets distributed skill points)
 * Lockpicking, chests, doors, etc
 * Allow mobiles to use physical abilities such as kick and cast spells
 * Mobile special attacks, such as dragon breaths
@@ -41,4 +42,4 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * Sneaking
 * Grouping
 * Web Site integration
-* Discord integraion
+* Discord integration
