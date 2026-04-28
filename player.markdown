@@ -31,7 +31,8 @@ Very important command is `score`. It shows the info about your character.
 Finally `quit` command lets you log off from the game.
 
 Important communication commands:
-* `gossip _message_` - for the communication with all
+* `gossip _message_` - for the communication with everyone
+* `say _message_` - for the communication within the current room
 * `tell _character_ _message_` - for the communication with the specific player
 
 ## Combat
