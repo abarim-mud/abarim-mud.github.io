@@ -22,7 +22,7 @@ AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
 Check the [cartography]({% link cartography.markdown %}) section.
 Particularly check the map of Carandor. All important rooms are marked with the special color.
 
-You'll start in that area at the room "Fountain" (#0).
+You'll start in that area at the room "Temple Altar" (#75).
 
 You could always return to that room using command `recall`, which costs 35 mana.
 
