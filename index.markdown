@@ -21,7 +21,6 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 
 ### Essential things to do(before the alpha release)
 
-* NPC AI(wandering/aggressive/etc behavior types)
 * Socials
 * More crafting materials, forges and enchantments
 * Develop and implement fair player death mechanic
