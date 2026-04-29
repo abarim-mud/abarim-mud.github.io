@@ -7,9 +7,18 @@
     "MaxLevel": "20"
   },
   {
-    "Id": "carandor",
-    "Name": "Carandor",
-    "MinLevel": "10"
+    "Id": "astoria",
+    "Name": "Astoria",
+    "Credits": "Astoria",
+    "MinLevel": "1",
+    "MaxLevel": "51"
+  },
+  {
+    "Id": "graveyard",
+    "Name": "Graveyard",
+    "Credits": "Alfa",
+    "MinLevel": "5",
+    "MaxLevel": "10"
   },
   {
     "Id": "haonDor",

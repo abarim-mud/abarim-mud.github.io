@@ -7,1236 +7,1140 @@
     "BackgroundColor": "white",
     "Rooms": [
       {
-        "Id": 51400,
-        "Name": "A Light Forest Trailhead #51400",
+        "Id": 1000,
+        "Name": "A Light Forest Trailhead #1000",
         "Connections": {
-          "North": 51565,
-          "West": 51401,
-          "East": 10
+          "North": 1080,
+          "West": 1001,
+          "East": 14
         }
       },
       {
-        "Id": 51401,
-        "Name": "A Trail Through the Light Forest  #51401",
+        "Id": 1001,
+        "Name": "A Trail Through the Light Forest  #1001",
         "Connections": {
-          "North": 51572,
-          "East": 51400,
-          "West": 51402
+          "North": 1084,
+          "East": 1000,
+          "West": 1002
         }
       },
       {
-        "Id": 51402,
-        "Name": "A Trail Through the Light Forest  #51402",
+        "Id": 1002,
+        "Name": "A Trail Through the Light Forest  #1002",
         "Connections": {
-          "North": 51573,
-          "East": 51401,
-          "South": 51411,
-          "West": 51403
+          "North": 1085,
+          "East": 1001,
+          "South": 1011,
+          "West": 1003
         }
       },
       {
-        "Id": 51403,
-        "Name": "A Trail Through the Light Forest  #51403",
+        "Id": 1003,
+        "Name": "A Trail Through the Light Forest  #1003",
         "Connections": {
-          "North": 51580,
-          "East": 51402,
-          "West": 51404
+          "North": 1092,
+          "East": 1002,
+          "West": 1004
         }
       },
       {
-        "Id": 51404,
-        "Name": "A Junction in the Forest Trail #51404",
+        "Id": 1004,
+        "Name": "A Junction in the Forest Trail #1004",
         "Connections": {
-          "North": 51556,
-          "East": 51403,
-          "South": 51405,
-          "West": 51500
+          "North": 1071,
+          "East": 1003,
+          "South": 1005,
+          "West": 1024
         },
         "Contents": [
           {
-            "Text": "a bunny #51517",
+            "Text": "a bunny #1012",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51405,
-        "Name": "A small path in the dense forest #51405",
+        "Id": 1005,
+        "Name": "A small path in the dense forest #1005",
         "Connections": {
-          "North": 51404,
-          "South": 51406
+          "North": 1004,
+          "South": 1006
         }
       },
       {
-        "Id": 51406,
-        "Name": "A small path in the dense forest #51406",
+        "Id": 1006,
+        "Name": "A small path in the dense forest #1006",
         "Connections": {
-          "North": 51405,
-          "East": 51407
+          "North": 1005,
+          "East": 1007
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51407,
-        "Name": "An intersection in the dense forest #51407",
+        "Id": 1007,
+        "Name": "An intersection in the dense forest #1007",
         "Connections": {
-          "East": 51408,
-          "South": 51412,
-          "West": 51406
+          "East": 1008,
+          "South": 1012,
+          "West": 1006
         }
       },
       {
-        "Id": 51408,
-        "Name": "The forest clearing #51408",
+        "Id": 1008,
+        "Name": "The forest clearing #1008",
         "Connections": {
-          "North": 51411,
-          "East": 51409,
-          "West": 51407
+          "North": 1011,
+          "East": 1009,
+          "West": 1007
         }
       },
       {
-        "Id": 51409,
-        "Name": "Outside a small cabin in the forest #51409",
+        "Id": 1009,
+        "Name": "Outside a small cabin in the forest #1009",
         "Connections": {
-          "North": 51410,
-          "South": 51414,
-          "West": 51408
+          "North": 1010,
+          "South": 1014,
+          "West": 1008
         },
         "Contents": [
           {
-            "Text": "John the Lumberjack #51400",
+            "Text": "John the Lumberjack #1000",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51410,
-        "Name": "Inside the cabin #51410",
+        "Id": 1010,
+        "Name": "Inside the cabin #1010",
         "Connections": {
-          "South": 51409
+          "South": 1009
         }
       },
       {
-        "Id": 51411,
-        "Name": "A small path through the light forest #51411",
+        "Id": 1011,
+        "Name": "A small path through the light forest #1011",
         "Connections": {
-          "North": 51402,
-          "South": 51408
+          "North": 1002,
+          "South": 1008
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51412,
-        "Name": "An intersection in the dense forest #51412",
+        "Id": 1012,
+        "Name": "An intersection in the dense forest #1012",
         "Connections": {
-          "North": 51407,
-          "East": 51413,
-          "South": 51421
+          "North": 1007,
+          "East": 1013,
+          "South": 1021
         },
         "Contents": [
           {
-            "Text": "the cute rabbit #309",
+            "Text": "the cute rabbit #1015",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51413,
-        "Name": "A small path in the dense forest #51413",
+        "Id": 1013,
+        "Name": "A small path in the dense forest #1013",
         "Connections": {
-          "East": 51414,
-          "West": 51412
+          "East": 1014,
+          "West": 1012
         }
       },
       {
-        "Id": 51414,
-        "Name": "An intersection in the dense forest #51414",
+        "Id": 1014,
+        "Name": "An intersection in the dense forest #1014",
         "Connections": {
-          "North": 51409,
-          "East": 51415,
-          "West": 51413
+          "North": 1009,
+          "East": 1015,
+          "West": 1013
         },
         "Contents": [
           {
-            "Text": "the brown fox #51405",
+            "Text": "the brown fox #1004",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51415,
-        "Name": "A small path in the dense forest #51415",
+        "Id": 1015,
+        "Name": "A small path in the dense forest #1015",
         "Connections": {
-          "South": 51416,
-          "West": 51414
+          "South": 1016,
+          "West": 1014
         },
         "Contents": [
           {
-            "Text": "the cute rabbit #309",
+            "Text": "the cute rabbit #1015",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51416,
-        "Name": "A small path in the dense forest #51416",
+        "Id": 1016,
+        "Name": "A small path in the dense forest #1016",
         "Connections": {
-          "North": 51415,
-          "South": 51417
+          "North": 1015,
+          "South": 1017
         }
       },
       {
-        "Id": 51417,
-        "Name": "A small path in the dense forest #51417",
+        "Id": 1017,
+        "Name": "A small path in the dense forest #1017",
         "Connections": {
-          "North": 51416,
-          "West": 51418
+          "North": 1016,
+          "West": 1018
         },
         "Contents": [
           {
-            "Text": "the cute rabbit #309",
+            "Text": "the cute rabbit #1015",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51418,
-        "Name": "An intersection in the light forest #51418",
+        "Id": 1018,
+        "Name": "An intersection in the light forest #1018",
         "Connections": {
-          "North": 51423,
-          "East": 51417,
-          "West": 51419
+          "North": 1023,
+          "East": 1017,
+          "West": 1019
         }
       },
       {
-        "Id": 51419,
-        "Name": "A small path in the dense forest #51419",
+        "Id": 1019,
+        "Name": "A small path in the dense forest #1019",
         "Connections": {
-          "North": 51420,
-          "East": 51418
+          "North": 1020,
+          "East": 1018
         },
         "Contents": [
           {
-            "Text": "the cute rabbit #309",
+            "Text": "the cute rabbit #1015",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51420,
-        "Name": "A small path in the dense forest #51420",
+        "Id": 1020,
+        "Name": "A small path in the dense forest #1020",
         "Connections": {
-          "South": 51419,
-          "West": 51421
+          "South": 1019,
+          "West": 1021
         }
       },
       {
-        "Id": 51421,
-        "Name": "A small path in the dense forest #51421",
+        "Id": 1021,
+        "Name": "A small path in the dense forest #1021",
         "Connections": {
-          "North": 51412,
-          "East": 51420,
-          "West": 51422
+          "North": 1012,
+          "East": 1020,
+          "West": 1022
         }
       },
       {
-        "Id": 51422,
-        "Name": "Inside the cave #51422",
+        "Id": 1022,
+        "Name": "Inside the cave #1022",
         "Connections": {
-          "East": 51421
+          "East": 1021
         },
         "Contents": [
           {
-            "Text": "the brown bear #51402",
+            "Text": "the brown bear #1001",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51423,
-        "Name": "On a small, grassy field #51423",
+        "Id": 1023,
+        "Name": "On a small, grassy field #1023",
         "Connections": {
-          "South": 51418
+          "South": 1018
         },
         "Contents": [
           {
-            "Text": "the fallow deer #51404",
+            "Text": "the fallow deer #1003",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51500,
-        "Name": "A narrow trail through the deep, dark forest #51500",
+        "Id": 1024,
+        "Name": "A narrow trail through the deep, dark forest #1024",
         "Connections": {
-          "East": 51404,
-          "West": 51501
+          "East": 1004,
+          "West": 1025
         },
         "Contents": [
           {
-            "Text": "Shargugh #51515",
+            "Text": "Shargugh #1010",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51501,
-        "Name": "A narrow trail through the deep, dark forest #51501",
+        "Id": 1025,
+        "Name": "A narrow trail through the deep, dark forest #1025",
         "Connections": {
-          "East": 51500,
-          "South": 51504,
-          "West": 51502
+          "East": 1024,
+          "South": 1028,
+          "West": 1026
         }
       },
       {
-        "Id": 51502,
-        "Name": "A narrow trail through the deep, dark forest #51502",
+        "Id": 1026,
+        "Name": "A narrow trail through the deep, dark forest #1026",
         "Connections": {
-          "East": 51501,
-          "West": 51503
+          "East": 1025,
+          "West": 1027
         }
       },
       {
-        "Id": 51503,
-        "Name": "A narrow trail through the deep, dark forest #51503",
+        "Id": 1027,
+        "Name": "A narrow trail through the deep, dark forest #1027",
         "Connections": {
-          "North": 51550,
-          "East": 51502,
-          "South": 51508
+          "North": 1065,
+          "East": 1026,
+          "South": 1032
         }
       },
       {
-        "Id": 51504,
-        "Name": "A small path in the deep, dark forest #51504",
+        "Id": 1028,
+        "Name": "A small path in the deep, dark forest #1028",
         "Connections": {
-          "North": 51501,
-          "South": 51505
+          "North": 1025,
+          "South": 1029
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51505,
-        "Name": "A small path in the deep, dark forest #51505",
+        "Id": 1029,
+        "Name": "A small path in the deep, dark forest #1029",
         "Connections": {
-          "North": 51504,
-          "West": 51506
+          "North": 1028,
+          "West": 1030
         }
       },
       {
-        "Id": 51506,
-        "Name": "A junction in the deep, dark forest #51506",
+        "Id": 1030,
+        "Name": "A junction in the deep, dark forest #1030",
         "Connections": {
-          "East": 51505,
-          "South": 51517,
-          "West": 51507
+          "East": 1029,
+          "South": 1041,
+          "West": 1031
         }
       },
       {
-        "Id": 51507,
-        "Name": "A small path in the deep, dark forest #51507",
+        "Id": 1031,
+        "Name": "A small path in the deep, dark forest #1031",
         "Connections": {
-          "North": 51508,
-          "East": 51506
+          "North": 1032,
+          "East": 1030
         }
       },
       {
-        "Id": 51508,
-        "Name": "A narrow trail through the deep, dark forest #51508",
+        "Id": 1032,
+        "Name": "A narrow trail through the deep, dark forest #1032",
         "Connections": {
-          "North": 51503,
-          "South": 51507,
-          "West": 51509
+          "North": 1027,
+          "South": 1031,
+          "West": 1033
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51509,
-        "Name": "A narrow trail through the deep, dark forest #51509",
+        "Id": 1033,
+        "Name": "A narrow trail through the deep, dark forest #1033",
         "Connections": {
-          "East": 51508,
-          "West": 51510
+          "East": 1032,
+          "West": 1034
         }
       },
       {
-        "Id": 51510,
-        "Name": "A narrow trail through the deep, dark forest #51510",
+        "Id": 1034,
+        "Name": "A narrow trail through the deep, dark forest #1034",
         "Connections": {
-          "North": 51544,
-          "East": 51509,
-          "South": 51511
+          "North": 1064,
+          "East": 1033,
+          "South": 1035
         }
       },
       {
-        "Id": 51511,
-        "Name": "A narrow trail through the deep, dark forest #51511",
+        "Id": 1035,
+        "Name": "A narrow trail through the deep, dark forest #1035",
         "Connections": {
-          "North": 51510,
-          "South": 51512
+          "North": 1034,
+          "South": 1036
         }
       },
       {
-        "Id": 51512,
-        "Name": "A narrow trail through the deep, dark forest #51512",
+        "Id": 1036,
+        "Name": "A narrow trail through the deep, dark forest #1036",
         "Connections": {
-          "North": 51511,
-          "East": 51513,
-          "West": 51527
+          "North": 1035,
+          "East": 1037,
+          "West": 1051
         },
         "Contents": [
           {
-            "Text": "the large, black wolf #51503",
+            "Text": "the large, black wolf #1008",
             "Color": "green"
           },
           {
-            "Text": "the large, black wolf #51503",
+            "Text": "the large, black wolf #1008",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51513,
-        "Name": "A small path in the deep, dark forest #51513",
+        "Id": 1037,
+        "Name": "A small path in the deep, dark forest #1037",
         "Connections": {
-          "South": 51514,
-          "West": 51512
+          "South": 1038,
+          "West": 1036
         }
       },
       {
-        "Id": 51514,
-        "Name": "A junction in the deep, dark forest #51514",
+        "Id": 1038,
+        "Name": "A junction in the deep, dark forest #1038",
         "Connections": {
-          "North": 51513,
-          "East": 51515,
-          "West": 51522
+          "North": 1037,
+          "East": 1039,
+          "West": 1046
         }
       },
       {
-        "Id": 51515,
-        "Name": "A small path in the deep, dark forest #51515",
+        "Id": 1039,
+        "Name": "A small path in the deep, dark forest #1039",
         "Connections": {
-          "North": 51516,
-          "West": 51514
+          "North": 1040,
+          "West": 1038
         }
       },
       {
-        "Id": 51516,
-        "Name": "A small path in the deep, dark forest #51516",
+        "Id": 1040,
+        "Name": "A small path in the deep, dark forest #1040",
         "Connections": {
-          "East": 51517,
-          "South": 51515
+          "East": 1041,
+          "South": 1039
         },
         "Contents": [
           {
-            "Text": "the vicious warg #51500",
+            "Text": "the vicious warg #1005",
             "Color": "green"
           },
           {
-            "Text": "the vicious warg #51500",
+            "Text": "the vicious warg #1005",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51517,
-        "Name": "A junction in the deep, dark forest #51517",
+        "Id": 1041,
+        "Name": "A junction in the deep, dark forest #1041",
         "Connections": {
-          "North": 51506,
-          "East": 51518,
-          "West": 51516
+          "North": 1030,
+          "East": 1042,
+          "West": 1040
         }
       },
       {
-        "Id": 51518,
-        "Name": "A small path in the deep, dark forest #51518",
+        "Id": 1042,
+        "Name": "A small path in the deep, dark forest #1042",
         "Connections": {
-          "South": 51519,
-          "West": 51517
+          "South": 1043,
+          "West": 1041
         },
         "Contents": [
           {
-            "Text": "the large, black wolf #51503",
+            "Text": "the large, black wolf #1008",
             "Color": "green"
           },
           {
-            "Text": "the large, black wolf #51503",
+            "Text": "the large, black wolf #1008",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51519,
-        "Name": "A small path in the deep, dark forest #51519",
+        "Id": 1043,
+        "Name": "A small path in the deep, dark forest #1043",
         "Connections": {
-          "North": 51518,
-          "South": 51520
+          "North": 1042,
+          "South": 1044
         }
       },
       {
-        "Id": 51520,
-        "Name": "On the river bank in the deep, dark forest #51520",
+        "Id": 1044,
+        "Name": "On the river bank in the deep, dark forest #1044",
         "Connections": {
-          "North": 51519,
-          "South": 51591,
-          "West": 51521
+          "North": 1043,
+          "West": 1045
         }
       },
       {
-        "Id": 51521,
-        "Name": "Beginning of a bridge across the dark river #51521",
+        "Id": 1045,
+        "Name": "Beginning of a bridge across the dark river #1045",
         "Connections": {
-          "East": 51520
+          "East": 1044
         }
       },
       {
-        "Id": 51522,
-        "Name": "A small path in the deep, dark forest #51522",
+        "Id": 1046,
+        "Name": "A small path in the deep, dark forest #1046",
         "Connections": {
-          "East": 51514,
-          "South": 51523
+          "East": 1038,
+          "South": 1047
         }
       },
       {
-        "Id": 51523,
-        "Name": "A junction on the river bank in the deep, dark forest #51523",
+        "Id": 1047,
+        "Name": "A junction on the river bank in the deep, dark forest #1047",
         "Connections": {
-          "North": 51522,
-          "East": 51524,
-          "West": 51525
+          "North": 1046,
+          "East": 1048,
+          "West": 1049
         }
       },
       {
-        "Id": 51524,
-        "Name": "A dead end path in the deep, dark forest #51524",
+        "Id": 1048,
+        "Name": "A dead end path in the deep, dark forest #1048",
         "Connections": {
-          "West": 51523
+          "West": 1047
         }
       },
       {
-        "Id": 51525,
-        "Name": "A small path on the river bank in the deep, dark forest #51525",
+        "Id": 1049,
+        "Name": "A small path on the river bank in the deep, dark forest #1049",
         "Connections": {
-          "North": 51526,
-          "East": 51523
+          "North": 1050,
+          "East": 1047
         }
       },
       {
-        "Id": 51526,
-        "Name": "A narrow trail through the deep, dark forest #51526",
+        "Id": 1050,
+        "Name": "A narrow trail through the deep, dark forest #1050",
         "Connections": {
-          "North": 51527,
-          "South": 51525,
-          "West": 51528
+          "North": 1051,
+          "South": 1049,
+          "West": 1052
         }
       },
       {
-        "Id": 51527,
-        "Name": "A narrow trail through the deep, dark forest #51527",
+        "Id": 1051,
+        "Name": "A narrow trail through the deep, dark forest #1051",
         "Connections": {
-          "East": 51512,
-          "South": 51526
+          "East": 1036,
+          "South": 1050
         },
         "Contents": [
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           },
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51528,
-        "Name": "A narrow trail through the deep, dark forest #51528",
+        "Id": 1052,
+        "Name": "A narrow trail through the deep, dark forest #1052",
         "Connections": {
-          "East": 51526,
-          "West": 51529
+          "East": 1050,
+          "West": 1053
         }
       },
       {
-        "Id": 51529,
-        "Name": "A narrow trail through the deep, dark forest #51529",
+        "Id": 1053,
+        "Name": "A narrow trail through the deep, dark forest #1053",
         "Connections": {
-          "East": 51528,
-          "West": 51535
+          "East": 1052,
+          "West": 1059
         }
       },
       {
-        "Id": 51530,
-        "Name": "A narrow trail through the deep, dark forest #51530",
+        "Id": 1054,
+        "Name": "A narrow trail through the deep, dark forest #1054",
         "Connections": {
-          "East": 51544,
-          "Up": 51532
+          "East": 1064,
+          "Up": 1056
         }
       },
       {
-        "Id": 51531,
-        "Name": "The spider web #51531",
+        "Id": 1055,
+        "Name": "The spider web #1055",
         "Connections": {}
       },
       {
-        "Id": 51532,
-        "Name": "Up in the tree #51532",
+        "Id": 1056,
+        "Name": "Up in the tree #1056",
         "Connections": {
-          "West": 51533,
-          "Down": 51530
+          "West": 1057,
+          "Down": 1054
         }
       },
       {
-        "Id": 51533,
-        "Name": "On the spider web #51533",
+        "Id": 1057,
+        "Name": "On the spider web #1057",
         "Connections": {
-          "North": 6200,
-          "East": 51532,
-          "West": 51534
+          "North": 2000,
+          "East": 1056,
+          "West": 1058
         }
       },
       {
-        "Id": 51534,
-        "Name": "The Den of the Queen Spider #51534",
+        "Id": 1058,
+        "Name": "The Den of the Queen Spider #1058",
         "Connections": {
-          "East": 51533
+          "East": 1057
         },
         "Contents": [
           {
-            "Text": "the Queen Spider #6319",
+            "Text": "the Queen Spider #2018",
             "Color": "green"
           },
           {
-            "Text": "the huge, poisonous spider #6318",
+            "Text": "the huge, poisonous spider #2017",
             "Color": "green"
           },
           {
-            "Text": "the huge, poisonous spider #6318",
+            "Text": "the huge, poisonous spider #2017",
             "Color": "green"
           },
           {
-            "Text": "the huge, poisonous spider #6318",
+            "Text": "the huge, poisonous spider #2017",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51535,
-        "Name": "A dusty trail in the deep, dark forest #51535",
+        "Id": 1059,
+        "Name": "A dusty trail in the deep, dark forest #1059",
         "Connections": {
-          "North": 51536,
-          "East": 51529
+          "North": 1060,
+          "East": 1053
         }
       },
       {
-        "Id": 51536,
-        "Name": "A dusty trail in the deep, dark forest #51536",
+        "Id": 1060,
+        "Name": "A dusty trail in the deep, dark forest #1060",
         "Connections": {
-          "East": 51542,
-          "South": 51535,
-          "West": 51537
+          "East": 1062,
+          "South": 1059,
+          "West": 1061
         }
       },
       {
-        "Id": 51537,
-        "Name": "At the end of the trail through the deep, dark forest #51537",
+        "Id": 1061,
+        "Name": "At the end of the trail through the deep, dark forest #1061",
         "Connections": {
-          "East": 51536
+          "East": 1060
         }
       },
       {
-        "Id": 51542,
-        "Name": "Outside a cave in the deep, dark forest #51542",
+        "Id": 1062,
+        "Name": "Outside a cave in the deep, dark forest #1062",
         "Connections": {
-          "North": 51543,
-          "West": 51536
+          "North": 1063,
+          "West": 1060
         }
       },
       {
-        "Id": 51543,
-        "Name": "The cave of the Green Dragon #51543",
+        "Id": 1063,
+        "Name": "The cave of the Green Dragon #1063",
         "Connections": {
-          "South": 51542
+          "South": 1062
         },
         "Contents": [
           {
-            "Text": "the huge, green dragon #51512",
+            "Text": "the huge, green dragon #1009",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51544,
-        "Name": "A small path in the deep, dark forest #51544",
+        "Id": 1064,
+        "Name": "A small path in the deep, dark forest #1064",
         "Connections": {
-          "South": 51510,
-          "West": 51530
+          "South": 1034,
+          "West": 1054
         }
       },
       {
-        "Id": 51550,
-        "Name": "The narrow trail. #51550",
+        "Id": 1065,
+        "Name": "The narrow trail. #1065",
         "Connections": {
-          "North": 51551,
-          "South": 51503
+          "North": 1066,
+          "South": 1027
         }
       },
       {
-        "Id": 51551,
-        "Name": "The narrow trail. #51551",
+        "Id": 1066,
+        "Name": "The narrow trail. #1066",
         "Connections": {
-          "East": 51552,
-          "South": 51550
+          "East": 1067,
+          "South": 1065
         },
         "Contents": [
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51552,
-        "Name": "The circle of trees. #51552",
+        "Id": 1067,
+        "Name": "The circle of trees. #1067",
         "Connections": {
-          "East": 51553,
-          "West": 51551
+          "East": 1068,
+          "West": 1066
         }
       },
       {
-        "Id": 51553,
-        "Name": "Inside the great tree. #51553",
+        "Id": 1068,
+        "Name": "Inside the great tree. #1068",
         "Connections": {
-          "West": 51552,
-          "Down": 51554
+          "West": 1067,
+          "Down": 1069
         }
       },
       {
-        "Id": 51554,
-        "Name": "The underground hallway. #51554",
+        "Id": 1069,
+        "Name": "The underground hallway. #1069",
         "Connections": {
-          "South": 51555,
-          "Up": 51553
+          "South": 1070,
+          "Up": 1068
         }
       },
       {
-        "Id": 51555,
-        "Name": "The cultist temple. #51555",
+        "Id": 1070,
+        "Name": "The cultist temple. #1070",
         "Connections": {
-          "North": 51554
+          "North": 1069
         },
         "Contents": [
           {
-            "Text": "the elder druid #51516",
+            "Text": "the elder druid #1011",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51556,
-        "Name": "A trail through the dense forest #51556",
+        "Id": 1071,
+        "Name": "A trail through the dense forest #1071",
         "Connections": {
-          "North": 51557,
-          "East": 51580,
-          "South": 51404
+          "North": 1072,
+          "East": 1092,
+          "South": 1004
         }
       },
       {
-        "Id": 51557,
-        "Name": "A trail through the dense forest #51557",
+        "Id": 1072,
+        "Name": "A trail through the dense forest #1072",
         "Connections": {
-          "North": 51558,
-          "East": 51579,
-          "South": 51556
+          "North": 1073,
+          "East": 1091,
+          "South": 1071
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51558,
-        "Name": "A trail through the dense forest #51558",
+        "Id": 1073,
+        "Name": "A trail through the dense forest #1073",
         "Connections": {
-          "North": 51559,
-          "East": 51578,
-          "South": 51557,
-          "West": 51593
+          "North": 1074,
+          "East": 1090,
+          "South": 1072,
+          "West": 1096
         },
         "Contents": [
           {
-            "Text": "the ranger guild guard #51519",
+            "Text": "the ranger guild guard #1014",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51559,
-        "Name": "A trail through the dense forest #51559",
+        "Id": 1074,
+        "Name": "A trail through the dense forest #1074",
         "Connections": {
-          "North": 51560,
-          "East": 51577,
-          "South": 51558
+          "North": 1075,
+          "East": 1089,
+          "South": 1073
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51560,
-        "Name": "A trail through the dense forest #51560",
+        "Id": 1075,
+        "Name": "A trail through the dense forest #1075",
         "Connections": {
-          "East": 51561,
-          "South": 51559
+          "East": 1076,
+          "South": 1074
         }
       },
       {
-        "Id": 51561,
-        "Name": "A trail through the dense forest #51561",
+        "Id": 1076,
+        "Name": "A trail through the dense forest #1076",
         "Connections": {
-          "East": 51562,
-          "South": 51577,
-          "West": 51560
+          "East": 1077,
+          "South": 1089,
+          "West": 1075
         }
       },
       {
-        "Id": 51562,
-        "Name": "A trail through the dense forest #51562",
+        "Id": 1077,
+        "Name": "A trail through the dense forest #1077",
         "Connections": {
-          "East": 51563,
-          "South": 51576,
-          "West": 51561
+          "East": 1078,
+          "South": 1088,
+          "West": 1076
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51563,
-        "Name": "A trail through the dense forest #51563",
+        "Id": 1078,
+        "Name": "A trail through the dense forest #1078",
         "Connections": {
-          "East": 51564,
-          "South": 51569,
-          "West": 51562
+          "East": 1079,
+          "South": 1082,
+          "West": 1077
         },
         "Contents": [
           {
-            "Text": "a bunny #51517",
+            "Text": "a bunny #1012",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51564,
-        "Name": "A trail through the dense forest #51564",
+        "Id": 1079,
+        "Name": "A trail through the dense forest #1079",
         "Connections": {
-          "South": 51568,
-          "West": 51563
+          "South": 1094,
+          "West": 1078
         }
       },
       {
-        "Id": 51565,
-        "Name": "Edge of a Dense Forest #51565",
+        "Id": 1080,
+        "Name": "Edge of a Dense Forest #1080",
         "Connections": {
-          "North": 51566,
-          "South": 51400,
-          "West": 51572
+          "North": 1081,
+          "South": 1000,
+          "West": 1084
         }
       },
       {
-        "Id": 51566,
-        "Name": "Edge of a Dense Forest #51566",
+        "Id": 1081,
+        "Name": "Edge of a Dense Forest #1081",
         "Connections": {
-          "North": 51567,
-          "South": 51565,
-          "West": 51571
+          "North": 1093,
+          "South": 1080,
+          "West": 1083
         }
       },
       {
-        "Id": 51569,
-        "Name": "Within a Dense Forest #51569",
+        "Id": 1082,
+        "Name": "Within a Dense Forest #1082",
         "Connections": {
-          "North": 51563,
-          "East": 51568,
-          "South": 51570,
-          "West": 51576
+          "North": 1078,
+          "East": 1094,
+          "South": 1095,
+          "West": 1088
         }
       },
       {
-        "Id": 51571,
-        "Name": "Within a Dense Forest #51571",
+        "Id": 1083,
+        "Name": "Within a Dense Forest #1083",
         "Connections": {
-          "North": 51570,
-          "East": 51566,
-          "South": 51572,
-          "West": 51574
+          "North": 1095,
+          "East": 1081,
+          "South": 1084,
+          "West": 1086
         }
       },
       {
-        "Id": 51572,
-        "Name": "Within a Dense Forest #51572",
+        "Id": 1084,
+        "Name": "Within a Dense Forest #1084",
         "Connections": {
-          "North": 51571,
-          "East": 51565,
-          "South": 51401,
-          "West": 51573
+          "North": 1083,
+          "East": 1080,
+          "South": 1001,
+          "West": 1085
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51573,
-        "Name": "Within a Dense Forest  #51573",
+        "Id": 1085,
+        "Name": "Within a Dense Forest  #1085",
         "Connections": {
-          "North": 51574,
-          "East": 51572,
-          "South": 51402,
-          "West": 51580
+          "North": 1086,
+          "East": 1084,
+          "South": 1002,
+          "West": 1092
         }
       },
       {
-        "Id": 51574,
-        "Name": "Within a Dense Forest  #51574",
+        "Id": 1086,
+        "Name": "Within a Dense Forest  #1086",
         "Connections": {
-          "North": 51575,
-          "East": 51571,
-          "South": 51573,
-          "West": 51579
+          "North": 1087,
+          "East": 1083,
+          "South": 1085,
+          "West": 1091
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51575,
-        "Name": "Within a Dense Forest  #51575",
+        "Id": 1087,
+        "Name": "Within a Dense Forest  #1087",
         "Connections": {
-          "North": 51576,
-          "East": 51570,
-          "South": 51574,
-          "West": 51578
+          "North": 1088,
+          "East": 1095,
+          "South": 1086,
+          "West": 1090
         },
         "Contents": [
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51576,
-        "Name": "Within a Dense Forest  #51576",
+        "Id": 1088,
+        "Name": "Within a Dense Forest  #1088",
         "Connections": {
-          "North": 51562,
-          "East": 51569,
-          "South": 51575,
-          "West": 51577
+          "North": 1077,
+          "East": 1082,
+          "South": 1087,
+          "West": 1089
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           },
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51577,
-        "Name": "Within a Dense Forest  #51577",
+        "Id": 1089,
+        "Name": "Within a Dense Forest  #1089",
         "Connections": {
-          "North": 51561,
-          "East": 51576,
-          "South": 51578,
-          "West": 51559
+          "North": 1076,
+          "East": 1088,
+          "South": 1090,
+          "West": 1074
         },
         "Contents": [
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51578,
-        "Name": "Within a Dense Forest  #51578",
+        "Id": 1090,
+        "Name": "Within a Dense Forest  #1090",
         "Connections": {
-          "North": 51577,
-          "East": 51575,
-          "South": 51579,
-          "West": 51558
+          "North": 1089,
+          "East": 1087,
+          "South": 1091,
+          "West": 1073
         }
       },
       {
-        "Id": 51579,
-        "Name": "Within a Dense Forest  #51579",
+        "Id": 1091,
+        "Name": "Within a Dense Forest  #1091",
         "Connections": {
-          "North": 51578,
-          "East": 51574,
-          "South": 51580,
-          "West": 51557
+          "North": 1090,
+          "East": 1086,
+          "South": 1092,
+          "West": 1072
         },
         "Contents": [
           {
-            "Text": "the large, grey wolf #51502",
+            "Text": "the large, grey wolf #1007",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51580,
-        "Name": "Within a Dense Forest  #51580",
+        "Id": 1092,
+        "Name": "Within a Dense Forest  #1092",
         "Connections": {
-          "North": 51579,
-          "East": 51573,
-          "South": 51403,
-          "West": 51556
+          "North": 1091,
+          "East": 1085,
+          "South": 1003,
+          "West": 1071
         },
         "Contents": [
           {
-            "Text": "the ferocious warg #51501",
+            "Text": "the ferocious warg #1006",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51581,
-        "Name": "Tigris River #51581",
+        "Id": 1093,
+        "Name": "Edge of a Dense Forest #1093",
         "Connections": {
-          "West": 51582
+          "North": 1094,
+          "South": 1081,
+          "West": 1095
         }
       },
       {
-        "Id": 51582,
-        "Name": "Tigris River #51582",
+        "Id": 1094,
+        "Name": "Edge of a Dense Forest #1094",
         "Connections": {
-          "East": 51581,
-          "West": 51583
-        }
-      },
-      {
-        "Id": 51583,
-        "Name": "River Bend #51583",
-        "Connections": {
-          "North": 51584,
-          "East": 51582
-        }
-      },
-      {
-        "Id": 51584,
-        "Name": "River Bend #51584",
-        "Connections": {
-          "South": 51583,
-          "West": 51585
-        }
-      },
-      {
-        "Id": 51585,
-        "Name": "Tigris River #51585",
-        "Connections": {
-          "East": 51584,
-          "West": 51586
-        }
-      },
-      {
-        "Id": 51586,
-        "Name": "Tigris River #51586",
-        "Connections": {
-          "East": 51585,
-          "West": 51587
-        }
-      },
-      {
-        "Id": 51587,
-        "Name": "River Bend #51587",
-        "Connections": {
-          "North": 51588,
-          "East": 51586
-        }
-      },
-      {
-        "Id": 51588,
-        "Name": "Tigris River #51588",
-        "Connections": {
-          "North": 51589,
-          "South": 51587
-        }
-      },
-      {
-        "Id": 51589,
-        "Name": "River Bend #51589",
-        "Connections": {
-          "South": 51588,
-          "West": 51590
-        }
-      },
-      {
-        "Id": 51590,
-        "Name": "Tigris River #51590",
-        "Connections": {
-          "East": 51589,
-          "West": 51591
-        }
-      },
-      {
-        "Id": 51591,
-        "Name": "Tigris River #51591",
-        "Connections": {
-          "North": 51520,
-          "East": 51590,
-          "West": 51592
-        }
-      },
-      {
-        "Id": 51592,
-        "Name": "Tigris River #51592",
-        "Connections": {
-          "East": 51591
-        }
-      },
-      {
-        "Id": 51567,
-        "Name": "Edge of a Dense Forest #51567",
-        "Connections": {
-          "North": 51568,
-          "South": 51566,
-          "West": 51570
-        }
-      },
-      {
-        "Id": 51568,
-        "Name": "Edge of a Dense Forest #51568",
-        "Connections": {
-          "North": 51564,
-          "South": 51567,
-          "West": 51569
+          "North": 1079,
+          "South": 1093,
+          "West": 1082
         },
         "Contents": [
           {
-            "Text": "a bunny #51517",
+            "Text": "a bunny #1012",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 51570,
-        "Name": "Within a Dense Forest #51570",
+        "Id": 1095,
+        "Name": "Within a Dense Forest #1095",
         "Connections": {
-          "North": 51569,
-          "East": 51567,
-          "South": 51571,
-          "West": 51575
+          "North": 1082,
+          "East": 1093,
+          "South": 1083,
+          "West": 1087
         }
       },
       {
-        "Id": 51593,
-        "Name": "Inside A Massive Living Tree #51593",
+        "Id": 1096,
+        "Name": "Inside A Massive Living Tree #1096",
         "Connections": {
-          "North": 51594,
-          "East": 51558
+          "North": 1097,
+          "East": 1073
         }
       },
       {
-        "Id": 51594,
-        "Name": "Deep Within the Massive Living Tree #51594",
+        "Id": 1097,
+        "Name": "Deep Within the Massive Living Tree #1097",
         "Connections": {
-          "South": 51593
+          "South": 1096
         },
         "Contents": [
           {
-            "Text": "the ranger guildmaster #51518",
+            "Text": "the ranger guildmaster #1013",
             "Color": "green"
           }
         ]
       },
       {
-        "Id": 10,
+        "Id": 14,
         "FrameColor": "blue",
-        "Name": "To Carandor #10",
+        "Name": "To Astoria #14",
         "Color": "blue",
         "Connections": {
-          "East": 8,
-          "West": 51400
+          "East": 13,
+          "West": 1000
         }
       },
       {
-        "Id": 6200,
+        "Id": 2000,
         "FrameColor": "blue",
-        "Name": "To Arachnos #6200",
+        "Name": "To Arachnos #2000",
         "Color": "blue",
         "Connections": {
-          "North": 6203,
-          "South": 51533
+          "North": 2003,
+          "South": 1057
         }
       }
     ]
