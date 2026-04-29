@@ -14,10 +14,12 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 ### What was done
 
 * Basic gameplay(accounts/characters, areas, rooms, movements, mobiles, communication, etc)
+* 5 playable classes: Warrior, Thief, Monk, Cleric and Mage
 * [Combat](combat)
 * The progression system where the player gains levels and chooses what skills to train
 * Crafting/enchantment system where the player makes the equipment according to their needs
 * Basic OLC
+* Basic NPC behaviors: wandering and aggressive
 
 ### Essential things to do(before the alpha release)
 
