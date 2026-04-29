@@ -1,0 +1,611 @@
+{
+  "Area": {
+    "Name": "Arachnos",
+    "Credits": "Mahatma",
+    "MinimumLevel": "5",
+    "MaximumLevel": "20",
+    "BackgroundColor": "white",
+    "Rooms": [
+      {
+        "Id": 2000,
+        "Name": "On the spider web #2000",
+        "Connections": {
+          "North": 2003,
+          "South": 1057
+        }
+      },
+      {
+        "Id": 2001,
+        "Name": "On the spider web #2001",
+        "Connections": {}
+      },
+      {
+        "Id": 2002,
+        "Name": "On the spider web #2002",
+        "Connections": {}
+      },
+      {
+        "Id": 2003,
+        "Name": "On the spider web #2003",
+        "Connections": {
+          "North": 2004,
+          "South": 2000
+        }
+      },
+      {
+        "Id": 2004,
+        "Name": "Webbed Entrance #2004",
+        "Connections": {
+          "North": 2005,
+          "South": 2003
+        },
+        "Contents": [
+          {
+            "Text": "the young spider #2000",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2005,
+        "Name": "Webby Passage #2005",
+        "Connections": {
+          "North": 2007,
+          "East": 2008,
+          "South": 2004,
+          "West": 2006
+        }
+      },
+      {
+        "Id": 2006,
+        "Name": "Wasp Hive #2006",
+        "Connections": {
+          "East": 2005
+        },
+        "Contents": [
+          {
+            "Text": "the Queen Wasp #2004",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2007,
+        "Name": "Webby Passage #2007",
+        "Connections": {
+          "South": 2005
+        },
+        "Contents": [
+          {
+            "Text": "the young spider #2000",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2008,
+        "Name": "Beneath the Busy Path #2008",
+        "Connections": {
+          "West": 2005,
+          "Up": 2009
+        }
+      },
+      {
+        "Id": 2009,
+        "Name": "On the Busy Path #2009",
+        "Connections": {
+          "South": 2010,
+          "Down": 2008
+        },
+        "Contents": [
+          {
+            "Text": "the young spider #2000",
+            "Color": "green"
+          },
+          {
+            "Text": "the young spider #2000",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2010,
+        "Name": "On the Busy Path #2010",
+        "Connections": {
+          "North": 2009,
+          "East": 2011
+        }
+      },
+      {
+        "Id": 2011,
+        "Name": "On the Busy Path #2011",
+        "Connections": {
+          "East": 2012,
+          "West": 2010
+        },
+        "Contents": [
+          {
+            "Text": "the slave of Arachnos #2007",
+            "Color": "green"
+          },
+          {
+            "Text": "the slave of Arachnos #2007",
+            "Color": "green"
+          },
+          {
+            "Text": "the slave of Arachnos #2007",
+            "Color": "green"
+          },
+          {
+            "Text": "the slave of Arachnos #2007",
+            "Color": "green"
+          },
+          {
+            "Text": "the slave of Arachnos #2007",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2012,
+        "Name": "A Split in the Path #2012",
+        "Connections": {
+          "North": 2013,
+          "South": 2017,
+          "West": 2011
+        }
+      },
+      {
+        "Id": 2013,
+        "Name": "Fuzzy Tree Limb #2013",
+        "Connections": {
+          "South": 2012,
+          "West": 2014
+        }
+      },
+      {
+        "Id": 2014,
+        "Name": "Tree Trunk #2014",
+        "Connections": {
+          "East": 2013,
+          "South": 2015
+        }
+      },
+      {
+        "Id": 2015,
+        "Name": "Tree Lair Entrance #2015",
+        "Connections": {
+          "North": 2014,
+          "West": 2016
+        }
+      },
+      {
+        "Id": 2016,
+        "Name": "Wolf Spider Lair #2016",
+        "Connections": {
+          "East": 2015
+        },
+        "Contents": [
+          {
+            "Text": "the Wolf Spider #2002",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2017,
+        "Name": "The Webless Path #2017",
+        "Connections": {
+          "North": 2012,
+          "West": 2018
+        }
+      },
+      {
+        "Id": 2018,
+        "Name": "Above the Ravine #2018",
+        "Connections": {
+          "East": 2017,
+          "South": 2020,
+          "Down": 2019
+        },
+        "Contents": [
+          {
+            "Text": "the drone spider #2005",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2019,
+        "Name": "The Rainbow Web #2019",
+        "Connections": {
+          "Up": 2018
+        }
+      },
+      {
+        "Id": 2020,
+        "Name": "The Web Forest #2020",
+        "Connections": {
+          "North": 2018,
+          "Down": 2021
+        }
+      },
+      {
+        "Id": 2021,
+        "Name": "The Slave Pit #2021",
+        "Connections": {
+          "North": 2022,
+          "Up": 2020
+        }
+      },
+      {
+        "Id": 2022,
+        "Name": "The Tether Path #2022",
+        "Connections": {
+          "East": 2023,
+          "West": 2021
+        }
+      },
+      {
+        "Id": 2023,
+        "Name": "A Road Crossing #2023",
+        "Connections": {
+          "West": 2022,
+          "Up": 2024
+        }
+      },
+      {
+        "Id": 2024,
+        "Name": "A Leader Strand #2024",
+        "Connections": {
+          "North": 2025,
+          "Down": 2023
+        },
+        "Contents": [
+          {
+            "Text": "the quasit #2008",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2025,
+        "Name": "The Entrance of the Ethereal Web #2025",
+        "Connections": {
+          "South": 2024,
+          "Down": 2027
+        }
+      },
+      {
+        "Id": 2026,
+        "Name": "A Narrow Series of Caves #2026",
+        "Connections": {
+          "South": 2027
+        },
+        "Contents": [
+          {
+            "Text": "the drone spider #2005",
+            "Color": "green"
+          },
+          {
+            "Text": "the young dragon wormkin #2015",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2027,
+        "Name": "The Base of the Web #2027",
+        "Connections": {
+          "North": 2026,
+          "East": 2028,
+          "South": 2029
+        },
+        "Contents": [
+          {
+            "Text": "the drone spider #2005",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2028,
+        "Name": "Through the Trees #2028",
+        "Connections": {
+          "West": 2027
+        },
+        "Contents": [
+          {
+            "Text": "the orc #2003",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2029,
+        "Name": "Above the Clouds #2029",
+        "Connections": {
+          "North": 2027,
+          "South": 2030,
+          "West": 2031
+        },
+        "Contents": [
+          {
+            "Text": "the ethereal spider #2006",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2030,
+        "Name": "On A Cloud #2030",
+        "Connections": {
+          "North": 2029
+        }
+      },
+      {
+        "Id": 2031,
+        "Name": "A Link in the Ethereal Web #2031",
+        "Connections": {
+          "East": 2029,
+          "West": 2032
+        },
+        "Contents": [
+          {
+            "Text": "the ethereal spider #2006",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2032,
+        "Name": "The Tenuous Strand #2032",
+        "Connections": {
+          "East": 2031,
+          "South": 2033,
+          "West": 2034
+        }
+      },
+      {
+        "Id": 2033,
+        "Name": "The Elder Wormkin\u0027s Room #2033",
+        "Connections": {
+          "North": 2032
+        },
+        "Contents": [
+          {
+            "Text": "the medium dragon wormkin #2016",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2034,
+        "Name": "Another Tree Limb #2034",
+        "Connections": {
+          "East": 2032,
+          "South": 2035,
+          "West": 2036
+        }
+      },
+      {
+        "Id": 2035,
+        "Name": "The Bird Spider\u0027s Lair #2035",
+        "Connections": {
+          "North": 2034
+        },
+        "Contents": [
+          {
+            "Text": "the Bird Spider #2009",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2036,
+        "Name": "A Link in the Ethereal Web #2036",
+        "Connections": {
+          "East": 2034,
+          "South": 2039,
+          "West": 2037
+        }
+      },
+      {
+        "Id": 2037,
+        "Name": "The Quiet Tree Top #2037",
+        "Connections": {
+          "East": 2036,
+          "West": 2038
+        }
+      },
+      {
+        "Id": 2038,
+        "Name": "On The Web #2038",
+        "Connections": {
+          "East": 2037,
+          "South": 2040
+        }
+      },
+      {
+        "Id": 2039,
+        "Name": "The Ki-Rin Chamber #2039",
+        "Connections": {
+          "North": 2036
+        },
+        "Contents": [
+          {
+            "Text": "the Ki-Rin #2014",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2040,
+        "Name": "A Link in the Ethereal Web #2040",
+        "Connections": {
+          "North": 2038,
+          "West": 2041,
+          "Up": 2042
+        }
+      },
+      {
+        "Id": 2041,
+        "Name": "Yevaud\u0027s Lair #2041",
+        "Connections": {
+          "East": 2040
+        },
+        "Contents": [
+          {
+            "Text": "Yevaud #2001",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2042,
+        "Name": "A Link in the Ethereal Web #2042",
+        "Connections": {
+          "North": 2048,
+          "South": 2043,
+          "Up": 2052,
+          "Down": 2040
+        }
+      },
+      {
+        "Id": 2043,
+        "Name": "Entrance to the Donjonkeep #2043",
+        "Connections": {
+          "East": 2044
+        }
+      },
+      {
+        "Id": 2044,
+        "Name": "The Guardian\u0027s Room #2044",
+        "Connections": {
+          "East": 2045,
+          "West": 2043
+        },
+        "Contents": [
+          {
+            "Text": "The guardian #2012",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2045,
+        "Name": "Realm of the Hopeless #2045",
+        "Connections": {
+          "East": 2046,
+          "West": 2044
+        }
+      },
+      {
+        "Id": 2046,
+        "Name": "Realm of the Hopeless #2046",
+        "Connections": {
+          "East": 2047,
+          "West": 2045
+        }
+      },
+      {
+        "Id": 2047,
+        "Name": "The Donjonkeep #2047",
+        "Connections": {
+          "East": 2048,
+          "West": 2046
+        },
+        "Contents": [
+          {
+            "Text": "the Donjonkeeper #2011",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2048,
+        "Name": "The Single Spider Line #2048",
+        "Connections": {
+          "East": 2049,
+          "West": 2047
+        }
+      },
+      {
+        "Id": 2049,
+        "Name": "The Single Spider Line #2049",
+        "Connections": {
+          "East": 2050,
+          "West": 2048
+        }
+      },
+      {
+        "Id": 2050,
+        "Name": "The Hermit\u0027s Corner #2050",
+        "Connections": {
+          "East": 2051,
+          "West": 2049
+        },
+        "Contents": [
+          {
+            "Text": "the Hermit #2010",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 2051,
+        "Name": "Mahatma\u0027s Inescapable Trap #2051",
+        "Connections": {}
+      },
+      {
+        "Id": 2052,
+        "Name": "The Entrance to the Arachnos\u0027 Lair #2052",
+        "Connections": {
+          "North": 2053,
+          "Down": 2042
+        }
+      },
+      {
+        "Id": 2053,
+        "Name": "The Sticky Chamber #2053",
+        "Connections": {
+          "North": 2054,
+          "South": 2052
+        }
+      },
+      {
+        "Id": 2054,
+        "Name": "The Great Door #2054",
+        "Connections": {
+          "North": 2055,
+          "South": 2053
+        }
+      },
+      {
+        "Id": 2055,
+        "Name": "The Lair of Arachnos #2055",
+        "Connections": {
+          "South": 2054
+        },
+        "Contents": [
+          {
+            "Text": "Arachnos #2013",
+            "Color": "green"
+          }
+        ]
+      },
+      {
+        "Id": 1057,
+        "FrameColor": "blue",
+        "Name": "To Haon Dor #1057",
+        "Color": "blue",
+        "Connections": {
+          "North": 2000,
+          "East": 1056,
+          "West": 1058
+        }
+      }
+    ]
+  },
+  "BuildOptions": {}
+}
