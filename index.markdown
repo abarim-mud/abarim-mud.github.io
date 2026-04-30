@@ -20,10 +20,10 @@ Make sure to check the [Player's Guide](player) if you want to give it a try.
 * Crafting/enchantment system where the player makes the equipment according to their needs
 * Basic OLC
 * Basic NPC behaviors: wandering and aggressive
+* Socials
 
 ### Essential things to do(before the alpha release)
 
-* Socials
 * More crafting materials, forges and enchantments
 * Develop and implement fair player death mechanic
 * Way more spells
