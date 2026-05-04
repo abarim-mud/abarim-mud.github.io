@@ -60,15 +60,15 @@ title: Skills
 #### Martial arts
 
 1|+2&nbsp;MartialArtsMinimumDamage<br>+10&nbsp;MartialArtsMaximumDamage<br>+1&nbsp;MartialArtsAttacksCount<br>+15&nbsp;MartialArtsAttackBonus
-2|+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
+2|+1&nbsp;PhysicalResistance<br>+15&nbsp;MartialArtsAttackBonus
 3|+15&nbsp;MartialArtsAttackBonus
-4|+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
+4|+1&nbsp;PhysicalResistance<br>+15&nbsp;MartialArtsAttackBonus
 5|+15&nbsp;MartialArtsAttackBonus<br>+2&nbsp;MartialArtsMinimumDamage<br>+14&nbsp;MartialArtsMaximumDamage
-6|+1&nbsp;MartialArtsAttacksCount<br>+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
+6|+1&nbsp;MartialArtsAttacksCount<br>+1&nbsp;PhysicalResistance<br>+15&nbsp;MartialArtsAttackBonus
 7|+15&nbsp;MartialArtsAttackBonus
-8|+1&nbsp;DamageReduction<br>+15&nbsp;MartialArtsAttackBonus
+8|+1&nbsp;PhysicalResistance<br>+15&nbsp;MartialArtsAttackBonus
 9|+1&nbsp;MartialArtsAttacksCount<br>+15&nbsp;MartialArtsAttackBonus
-10|+1&nbsp;DamageReduction<br>+3&nbsp;MartialArtsMinimumDamage<br>+18&nbsp;MartialArtsMaximumDamage<br>+15&nbsp;MartialArtsAttackBonus
+10|+1&nbsp;PhysicalResistance<br>+3&nbsp;MartialArtsMinimumDamage<br>+18&nbsp;MartialArtsMaximumDamage<br>+15&nbsp;MartialArtsAttackBonus
 
 #### Deathtouch
 
@@ -96,14 +96,14 @@ title: Skills
 
 #### Restoration
 
-1|cure light wounds
+1|cure light wounds<br>holy bolt
 2|accuracy: 10
-3|cure serious wounds
-4|accuracy: 5
-5|heal
-6|accuracy: 5
-7|greater heal
-8|accuracy: 5
+3|cure serious wounds<br>regeneration: 10<br>mobility: 10
+4|accuracy: 5<br>aegis: 10<br>regeneration: 10<br>mobility: 10
+5|heal<br>aegis: 10<br>regeneration: 10<br>mobility: 10
+6|accuracy: 5<br>aegis: 10<br>regeneration: 10<br>mobility: 10
+7|greater heal<br>aegis: 10<br>regeneration: 10<br>mobility: 10
+8|accuracy: 5<br>aegis: 10
 9|restoration
 10|accuracy: 5
 
@@ -127,14 +127,14 @@ title: Skills
 
 1|magic missile
 2|armor: 10
-3|
+3|lightning bolt
 4|armor: 5
-5|
-6|armor: 5
-7|
+5|fire ball
+6|armor: 5<br>ice ray
+7|disintigrate<br>haste
 8|armor: 5
-9|
-10|armor: 5
+9|fire wind
+10|armor: 5<br>chaos blast
 
 #### Intelligence
 
