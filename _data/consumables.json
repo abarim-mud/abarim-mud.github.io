@@ -22,5 +22,17 @@
     "Affects": [
       "raises MovesRegenAbsolute2 by 60 for 60 seconds."
     ]
+  },
+  {
+    "Name": "a potion of accuracy",
+    "Type": "Potion",
+    "Price": "5000",
+    "Affects": []
+  },
+  {
+    "Name": "a potion of haste",
+    "Type": "Potion",
+    "Price": "5000",
+    "Affects": []
   }
 ]
