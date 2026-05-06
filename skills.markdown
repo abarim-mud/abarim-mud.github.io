@@ -97,15 +97,15 @@ title: Skills
 #### Restoration
 
 1|cure light wounds<br>holy bolt
-2|mobility: 10<br>regeneration: 10
+2|accuracy: 10<br>regeneration: 10
 3|cure serious wounds
-4|aegis: 10<br>mobility: 10<br>regeneration: 5
+4|aegis: 10<br>accuracy: 5<br>regeneration: 5
 5|heal<br>aegis: 10
-6|aegis: 10<br>mobility: 10<br>regeneration: 5
+6|aegis: 10<br>accuracy: 5<br>regeneration: 5
 7|greater heal
-8|aegis: 10<br>mobility: 10<br>regeneration: 5
+8|aegis: 10<br>accuracy: 5<br>regeneration: 5
 9|restoration
-10|aegis: 10<br>mobility: 10<br>regeneration: 5
+10|aegis: 10<br>accuracy: 5<br>regeneration: 5
 
 #### Wisdom
 
@@ -126,15 +126,15 @@ title: Skills
 #### Wizardry
 
 1|magic missile
-2|armor: 10<br>accuracy: 10
+2|armor: 10<br>mobility: 10
 3|lightning bolt
-4|armor: 5<br>accuracy: 5
+4|armor: 5<br>mobility: 10
 5|fire ball
-6|armor: 5<br>accuracy: 5<br>ice ray
+6|armor: 5<br>mobility: 10<br>ice ray
 7|disintegrate<br>haste
-8|armor: 5<br>accuracy: 5
+8|armor: 5<br>mobility: 10
 9|fire wind
-10|armor: 5<br>accuracy: 5<br>chaos blast
+10|armor: 5<br>mobility: 10<br>chaos blast
 
 #### Intelligence
 
