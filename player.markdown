@@ -81,7 +81,6 @@ Gaining/advancing skills grants various parameters and abilities.
 Use `skills` command to see your skills.
 
 Every level a player receives 1 skill point. Also additional skill point every 10th level.
-Advancing different skills cost different amount of skill points. Also it costs gold.
 
 Eventually it should be possible to max out all skills.
 
