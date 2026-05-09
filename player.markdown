@@ -20,7 +20,7 @@ Also there are abilities that are exclusive only for specific classes (aka prima
 AbarimMUD is 6-direction MUD(north, south, east, west, up, down).
 
 Check the [cartography]({% link cartography.markdown %}) section.
-Particularly check the map of Carandor. All important rooms are marked with the special color.
+Particularly check the map of Astoria. All important rooms are marked with the special color.
 
 You'll start in that area at the room "Temple Altar" (#75).
 
